@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "owner": "rajeshvar-gupt",
+  "updated": "2026-10-01",
+  "publication_status": "published",
+  "resources": [
+    {
+      "id": "AI-001",
+      "title": "Understanding the AI landscape",
+      "level": "beginner",
+      "prerequisites": [],
+      "status": "published",
+      "assignment": "assignments/AI-001/questions.md",
+      "solutions": "assignments/AI-001/solutions.md",
+      "notes": "notes/cheat-sheets/ai-foundations.md",
+      "path": "notes/foundations/ai-landscape.md"
+    },
+    {
+      "id": "ROAD-AI-001",
+      "title": "AI engineer learning sequence",
+      "level": "all",
+      "prerequisites": [],
+      "status": "published",
+      "path": "roadmaps/ai-engineer.md"
+    },
+    {
+      "id": "PROJ-CATALOG-001",
+      "title": "Existing project catalog",
+      "level": "all",
+      "prerequisites": [],
+      "status": "published",
+      "path": "projects/catalog.md"
+    }
+  ],
+  "architecture": "single-repository",
+  "repository": "rajeshvar-gupt/AI-Learning-Hub"
+}
