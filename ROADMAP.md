@@ -4,6 +4,10 @@ Planning window: 5 October 2026–2 January 2027, Asia/Kolkata. The first batch 
 
 The intended outcome is a coherent first curriculum release, not exhaustive mastery of every AI field. Each task includes an acceptance check. Preserve existing work; add folders only with real content.
 
+## Actual session tracking
+
+Session Day 2 (2 October 2026) follows PROGRESS.md: original D002 roadmaps/AI distinctions already shipped in the foundation release. This session prepares the first Python unit (D008 scope plus introductory D009 types) for PR review. Planned calendar dates are retained; pending legacy repairs and other tasks are not marked complete.
+
 ## Single-repository rule
 
 All 90 tasks now target folders in AI-Learning-Hub. Earlier repository names in the original audit are historical references only. Do not create subject repositories. Existing-project repair/migration requires review; all new educational content belongs in this hub.

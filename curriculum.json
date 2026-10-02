@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "publication_status": "published",
   "resources": [
     {
@@ -30,6 +30,31 @@
       "prerequisites": [],
       "status": "published",
       "path": "projects/catalog.md"
+    },
+    {
+      "id": "PY-001",
+      "title": "Your first Python program",
+      "level": "beginner",
+      "prerequisites": [],
+      "status": "prepared",
+      "path": "subjects/python/00-introduction/01-first-program.md",
+      "example": "subjects/python/examples/learner_profile.py",
+      "assignment": "assignments/PY-001/questions.md",
+      "solutions": "assignments/PY-001/solutions.md",
+      "notes": "notes/cheat-sheets/python-first-steps.md"
+    },
+    {
+      "id": "PY-002",
+      "title": "Input and conditions",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/02-input-and-conditions.md",
+      "example": "subjects/python/examples/study_goal.py",
+      "assignment": "assignments/PY-002/questions.md",
+      "solutions": "assignments/PY-002/solutions.md"
     }
   ],
   "architecture": "single-repository",
