@@ -6,7 +6,7 @@ The intended outcome is a coherent first curriculum release, not exhaustive mast
 
 ## Actual session tracking
 
-Session Day 2 (2 October 2026) follows PROGRESS.md: original D002 roadmaps/AI distinctions already shipped in the foundation release. This session prepares the first Python unit (D008 scope plus introductory D009 types) for PR review. Planned calendar dates are retained; pending legacy repairs and other tasks are not marked complete.
+Session Day 2 (2 October 2026) follows PROGRESS.md: original D002 roadmaps/AI distinctions already shipped in the foundation release. This session published PY-001 and PY-002 (D008 scope, introductory D009 types, and input/conditions) through [PR #1](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/1). Planned calendar dates are retained; pending legacy repairs and other tasks are not marked complete.
 
 ## Single-repository rule
 

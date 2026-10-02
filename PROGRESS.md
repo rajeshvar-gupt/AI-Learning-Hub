@@ -15,7 +15,8 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Subject tutorials and new project implementations | Planned |
+| Python tutorials PY-001 and PY-002 | Published |
+| Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
 ## Validation
@@ -28,16 +29,16 @@ See the [main-branch history](https://github.com/rajeshvar-gupt/AI-Learning-Hub/
 
 ## Session Day 2 · 2 October 2026
 
-Prepared PY-001 and PY-002 on `docs/day-2-python-foundations` for PR review; not yet published on main. Original calendar D002 was already covered by the foundation release. This session follows the recorded next action and advances D008 / introductory D009 without claiming the entire Python module is complete.
+Published PY-001 and PY-002 on main through [PR #1](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/1), merged on 2 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/f8ab74223891877c2444102284dabe6b4fb58fc7)). Original calendar D002 was already covered by the foundation release. This session follows the recorded next action and advances D008 / introductory D009 without claiming the entire Python module is complete.
 
 Added setup/run instructions, variables/types lesson, a runnable fixed-input profile example, a revision sheet, five assignment questions and separate solutions. No third-party dependencies or keys required. Homepage, curriculum map, registry and plan updated.
 
-Validation: Python 3.12.14 example output, assignment solution output, 45-minute and zero-day variants, and internal links checked. Commit/PR evidence is available in the branch/PR history. Review and merge are pending; daily automation remains inactive.
+Validation: Python 3.12.14 example output, assignment solution output, 45-minute and zero-day variants, and internal links checked. The merged PR above records the lesson changes. Daily automation remains inactive.
 
 Added the next requested unit: input conversion, comparisons and conditions, with an interactive goal checker and separate practice/solutions. Tested valid, boundary, zero, negative, blank, decimal and nonnumeric input.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review the Day 2 PR first; after merge, teach loops and repeated input with a small runnable exercise inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach loops and repeated input with a small runnable exercise inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

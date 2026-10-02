@@ -36,7 +36,7 @@
       "title": "Your first Python program",
       "level": "beginner",
       "prerequisites": [],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/00-introduction/01-first-program.md",
       "example": "subjects/python/examples/learner_profile.py",
       "assignment": "assignments/PY-001/questions.md",
@@ -50,7 +50,7 @@
       "prerequisites": [
         "PY-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/01-fundamentals/02-input-and-conditions.md",
       "example": "subjects/python/examples/study_goal.py",
       "assignment": "assignments/PY-002/questions.md",
