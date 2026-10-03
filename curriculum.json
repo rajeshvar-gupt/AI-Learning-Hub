@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "publication_status": "published",
   "resources": [
     {
@@ -55,6 +55,20 @@
       "example": "subjects/python/examples/study_goal.py",
       "assignment": "assignments/PY-002/questions.md",
       "solutions": "assignments/PY-002/solutions.md"
+    },
+    {
+      "id": "PY-003",
+      "title": "Loops and repeated input",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/03-loops-and-repeated-input.md",
+      "example": "subjects/python/examples/study_log.py",
+      "assignment": "assignments/PY-003/questions.md",
+      "solutions": "assignments/PY-003/solutions.md",
+      "notes": "notes/cheat-sheets/python-loops.md"
     }
   ],
   "architecture": "single-repository",

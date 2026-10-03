@@ -1,6 +1,6 @@
 # Progress
 
-Updated 2 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
+Updated 3 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
 
 ## Foundation release
 
@@ -37,8 +37,14 @@ Validation: Python 3.12.14 example output, assignment solution output, 45-minute
 
 Added the next requested unit: input conversion, comparisons and conditions, with an interactive goal checker and separate practice/solutions. Tested valid, boundary, zero, negative, blank, decimal and nonnumeric input.
 
+## Session Day 3 · 3 October 2026
+
+Prepared PY-003 on `docs/day-3-python-loops` for review; it is not yet published on main. Adds for/range, while, break/continue, a repeated-input study log, separate practice/solutions and a revision sheet. Navigation and the curriculum registry include the new unit. This advances loop prerequisites for D010; the full functions-based score CLI remains planned.
+
+Validation covers documented snippets, accumulation, immediate quit, zero, invalid text, decimals, negatives, whitespace/case in the quit command, the positive-only assignment variant, and internal links. Daily automation remains inactive.
+
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach loops and repeated input with a small runnable exercise inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-003, then teach functions and build a student-score summary CLI inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

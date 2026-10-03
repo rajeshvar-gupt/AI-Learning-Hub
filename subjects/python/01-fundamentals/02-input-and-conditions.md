@@ -53,4 +53,4 @@ Why should negative input be checked before the success branch? Which test catch
 
 Mini project: change the goal to 45 minutes and retest zero, 44, 45 and 46. Keep invalid input behavior. [Questions](../../../assignments/PY-002/questions.md) · [Solutions](../../../assignments/PY-002/solutions.md)
 
-Next planned topic: loops and repeated input. [Python home](../README.md)
+Next: [PY-003: loops and repeated input](03-loops-and-repeated-input.md). [Python home](../README.md)
