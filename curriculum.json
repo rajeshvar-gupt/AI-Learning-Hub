@@ -63,7 +63,7 @@
       "prerequisites": [
         "PY-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/01-fundamentals/03-loops-and-repeated-input.md",
       "example": "subjects/python/examples/study_log.py",
       "assignment": "assignments/PY-003/questions.md",

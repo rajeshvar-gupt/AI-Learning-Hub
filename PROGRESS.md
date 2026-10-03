@@ -15,7 +15,7 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Python tutorials PY-001 and PY-002 | Published |
+| Python tutorials PY-001, PY-002 and PY-003 | Published |
 | Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
@@ -39,12 +39,12 @@ Added the next requested unit: input conversion, comparisons and conditions, wit
 
 ## Session Day 3 · 3 October 2026
 
-Prepared PY-003 on `docs/day-3-python-loops` for review; it is not yet published on main. Adds for/range, while, break/continue, a repeated-input study log, separate practice/solutions and a revision sheet. Navigation and the curriculum registry include the new unit. This advances loop prerequisites for D010; the full functions-based score CLI remains planned.
+Published PY-003 on main through [PR #2](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/2), merged on 3 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/9b7352118dd56ef09208add57e5686f220f1be43)). Adds for/range, while, break/continue, a repeated-input study log, separate practice/solutions and a revision sheet. Navigation and the curriculum registry include the new unit. This advances loop prerequisites for D010; the full functions-based score CLI remains planned.
 
 Validation covers documented snippets, accumulation, immediate quit, zero, invalid text, decimals, negatives, whitespace/case in the quit command, the positive-only assignment variant, and internal links. Daily automation remains inactive.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-003, then teach functions and build a student-score summary CLI inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach functions and build a student-score summary CLI inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

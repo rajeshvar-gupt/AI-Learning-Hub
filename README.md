@@ -8,7 +8,7 @@ One repository to learn AI from foundations to practical projects: roadmaps, exp
 
 | Section | What you will find |
 |---|---|
-| [Python first lesson](subjects/python/README.md) | Setup, variables, input and conditions; loops and a study log prepared for review |
+| [Python first lesson](subjects/python/README.md) | Setup, variables, input, conditions, loops and a runnable study log |
 | [Roadmaps](roadmaps/README.md) | AI engineer sequence, eleven role routes and portfolio criteria |
 | [Notes](notes/README.md) | AI foundations, comparisons and revision sheets |
 | [Projects](projects/README.md) | Existing-project catalog, readiness notes and project template |
