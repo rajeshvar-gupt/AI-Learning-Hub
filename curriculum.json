@@ -93,6 +93,20 @@
       ],
       "status": "prepared",
       "path": "projects/beginner/student-score-summary/README.md"
+    },
+    {
+      "id": "PY-005",
+      "title": "Files and score storage",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-004"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/05-files-and-score-storage.md",
+      "example": "projects/beginner/student-score-summary/score_files.py",
+      "assignment": "assignments/PY-005/questions.md",
+      "solutions": "assignments/PY-005/solutions.md",
+      "notes": "notes/cheat-sheets/python-files.md"
     }
   ],
   "architecture": "single-repository",

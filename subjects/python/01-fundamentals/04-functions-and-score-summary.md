@@ -98,4 +98,4 @@ Why does the summary return text rather than print it? Why is the empty-list che
 
 Complete [six exercises](../../../assignments/PY-004/questions.md), then read the [solutions](../../../assignments/PY-004/solutions.md). Use the [revision sheet](../../../notes/cheat-sheets/python-functions.md).
 
-Next planned unit: file handling and saving/reloading scores. [Python home](../README.md)
+Next: [PY-005: file handling and saving/reloading scores](05-files-and-score-storage.md). [Python home](../README.md)

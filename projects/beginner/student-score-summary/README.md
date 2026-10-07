@@ -55,6 +55,23 @@ Validated on 7 October 2026 with Python 3.12.14: all eight automated tests and t
 
 Scores exist only in memory and disappear when the program ends. Fractional marks such as 82.5 are rejected. Every accepted entry counts, including duplicates. The average is displayed to two decimal places; underlying arithmetic is not rounded before formatting. KeyboardInterrupt is not caught.
 
-Next planned extension: save and reload scores using files, with explicit error handling.
+## File storage extension · PY-005
+
+Prepared for review after PY-004. [File lesson](../../../subjects/python/01-fundamentals/05-files-and-score-storage.md).
+
+From repository root, select a new filename:
+
+```bash
+python3 projects/beginner/student-score-summary/score_files.py save practice-scores.txt 70 80 90
+python3 projects/beginner/student-score-summary/score_files.py load practice-scores.txt
+```
+
+The load report matches the sample above. [score_files.py](score_files.py) reuses the original calculation module. Each UTF-8 line stores one integer score; empty files are valid, blank records are not. Existing files are never overwritten. All data is validated before saving; loading rejects the entire operation with a line number if a record is invalid. The parent folder must already exist. Paths are relative to the current directory unless absolute.
+
+The earlier memory-only limitation applies to score_summary.py. File commands persist explicit snapshots. They do not auto-save the interactive session. A disk failure can leave a partial new file; writes are not atomic.
+
+The same unittest command now also discovers [file tests](test_score_files.py), including save/reload, overwrite refusal, malformed lines, missing paths and invalid encoding. Permission failure uses a simulated exception.
+
+Next planned unit: collections in depth.
 
 [Projects](../../README.md) · [Questions](../../../assignments/PY-004/questions.md)
