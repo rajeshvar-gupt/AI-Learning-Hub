@@ -100,4 +100,4 @@ Resetting the total inside the loop loses earlier sessions. Incrementing the cou
 
 Complete the [questions](../../../assignments/PY-003/questions.md) before reading the [solutions](../../../assignments/PY-003/solutions.md). Keep the [loop revision sheet](../../../notes/cheat-sheets/python-loops.md) nearby.
 
-Next planned unit: functions and a student-score summary CLI. [Python home](../README.md)
+Next: [PY-004: functions and a student-score summary](04-functions-and-score-summary.md). [Python home](../README.md)

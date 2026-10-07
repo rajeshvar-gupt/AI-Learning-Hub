@@ -11,7 +11,7 @@ One repository to learn AI from foundations to practical projects: roadmaps, exp
 | [Python first lesson](subjects/python/README.md) | Setup, variables, input, conditions, loops and a runnable study log |
 | [Roadmaps](roadmaps/README.md) | AI engineer sequence, eleven role routes and portfolio criteria |
 | [Notes](notes/README.md) | AI foundations, comparisons and revision sheets |
-| [Projects](projects/README.md) | Existing-project catalog, readiness notes and project template |
+| [Projects](projects/README.md) | Existing-project catalog and guides; student-score summary prepared for review |
 | [Assignments](assignments/AI-001/questions.md) | Beginner diagnostic with separate solutions |
 | [Resources](resources/README.md) | Verified official starting references |
 
