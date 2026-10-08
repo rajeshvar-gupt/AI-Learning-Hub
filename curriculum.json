@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "publication_status": "published",
   "resources": [
     {
@@ -77,7 +77,7 @@
       "prerequisites": [
         "PY-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/01-fundamentals/04-functions-and-score-summary.md",
       "example": "projects/beginner/student-score-summary/score_summary.py",
       "assignment": "assignments/PY-004/questions.md",
@@ -91,7 +91,7 @@
       "prerequisites": [
         "PY-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/beginner/student-score-summary/README.md"
     },
     {
@@ -101,7 +101,7 @@
       "prerequisites": [
         "PY-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/01-fundamentals/05-files-and-score-storage.md",
       "example": "projects/beginner/student-score-summary/score_files.py",
       "assignment": "assignments/PY-005/questions.md",

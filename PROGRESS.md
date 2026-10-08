@@ -1,6 +1,6 @@
 # Progress
 
-Updated 7 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
+Updated 8 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
 
 ## Foundation release
 
@@ -15,7 +15,7 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Python tutorials PY-001, PY-002 and PY-003 | Published |
+| Python tutorials PY-001 through PY-005 and student-score project | Published |
 | Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
@@ -45,18 +45,18 @@ Validation covers documented snippets, accumulation, immediate quit, zero, inval
 
 ## Session Day 4 · 7 October 2026
 
-Prepared PY-004 and PROJ-PY-001 on `docs/day-4-python-functions` for PR review; not yet published on main. Teaches functions, arguments/defaults, return versus print, local variables and the lists needed for the student-score CLI. The project validates whole-number marks from 0 to 100, handles empty input and EOF, and reports count, total, mean, minimum and maximum.
+Published PY-004 and PROJ-PY-001 through [PR #3](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/3), merged on 8 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/1d12e803f6583d515f95aeb313cf8a51d3e3a8f9)). Teaches functions, arguments/defaults, return versus print, local variables and the lists needed for the student-score CLI. The project validates whole-number marks from 0 to 100, handles empty input and EOF, and reports count, total, mean, minimum and maximum.
 
-Includes separate questions/solutions, revision notes, project instructions and automated checks. Validation covers invalid inputs, range boundaries, empty and zero-only data, rounding, calculation side effects, repeated input, EOF and safe importing, plus executable teaching snippets and relative links. All eight tests, six teaching snippets and the documented sample report passed on Python 3.12.14; 65 relative links and curriculum paths were checked. This implements the D010 score-CLI scope for review; it does not complete all remaining D009 collections topics or D011 file handling. Daily automation remains inactive.
+Includes separate questions/solutions, revision notes, project instructions and automated checks. Validation covers invalid inputs, range boundaries, empty and zero-only data, rounding, calculation side effects, repeated input, EOF and safe importing, plus executable teaching snippets and relative links. All eight tests, six teaching snippets and the documented sample report passed on Python 3.12.14; 65 relative links and curriculum paths were checked. This implements the D010 score-CLI scope; it does not complete all remaining D009 collections topics or D011 file handling. Daily automation remains inactive.
 
 ## Session Day 5 · 7 October 2026
 
-Prepared PY-005 on `docs/day-5-python-files`, based on the still-open [PR #3](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/3). This dependent contribution adds text-file save/load commands to the same score project, a file-handling lesson, six exercises with solutions and revision notes. It is not published on main.
+Published PY-005 through [PR #4](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/4), retargeted to main after PR #3 merged and merged on 8 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/c611cab75822630c652ee541d4106286f33bf722)). This dependent contribution adds text-file save/load commands to the same score project, a file-handling lesson, six exercises with solutions and revision notes. It is available on main.
 
 Saves refuse existing targets and validate input before creating files. Loads reject invalid records with line numbers. Empty, missing, malformed and non-UTF-8 files have explicit behavior. Tests use temporary files; permission failure is simulated. Validation: all 19 project tests (11 file tests plus 8 existing tests), both file lesson snippets, 50 relative links and curriculum paths passed on Python 3.12.14. This advances D011 file handling and module reuse; classes remain planned. Daily automation remains inactive.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-004 and PY-005 in dependency order, then teach collections in depth inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach collections in depth inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

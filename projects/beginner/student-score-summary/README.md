@@ -1,7 +1,7 @@
 # Student-score summary
 
 **Level:** beginner · **Topic:** Python functions, lists, validation and loops.
-Prepared with PY-004 for review. Requires [the functions lesson](../../../subjects/python/01-fundamentals/04-functions-and-score-summary.md).
+Published with PY-004. Requires [the functions lesson](../../../subjects/python/01-fundamentals/04-functions-and-score-summary.md).
 
 ## Problem and behavior
 
@@ -53,11 +53,11 @@ Validated on 7 October 2026 with Python 3.12.14: all eight automated tests and t
 
 ## Limitations and extension
 
-Scores exist only in memory and disappear when the program ends. Fractional marks such as 82.5 are rejected. Every accepted entry counts, including duplicates. The average is displayed to two decimal places; underlying arithmetic is not rounded before formatting. KeyboardInterrupt is not caught.
+In the interactive score_summary.py script, scores exist only in memory and disappear when the program ends. Fractional marks such as 82.5 are rejected. Every accepted entry counts, including duplicates. The average is displayed to two decimal places; underlying arithmetic is not rounded before formatting. KeyboardInterrupt is not caught.
 
 ## File storage extension · PY-005
 
-Prepared for review after PY-004. [File lesson](../../../subjects/python/01-fundamentals/05-files-and-score-storage.md).
+Published with PY-005. [File lesson](../../../subjects/python/01-fundamentals/05-files-and-score-storage.md).
 
 From repository root, select a new filename:
 
