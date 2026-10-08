@@ -1,6 +1,6 @@
 # Progress
 
-Updated 3 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
+Updated 7 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
 
 ## Foundation release
 
@@ -43,8 +43,14 @@ Published PY-003 on main through [PR #2](https://github.com/rajeshvar-gupt/AI-Le
 
 Validation covers documented snippets, accumulation, immediate quit, zero, invalid text, decimals, negatives, whitespace/case in the quit command, the positive-only assignment variant, and internal links. Daily automation remains inactive.
 
+## Session Day 4 · 7 October 2026
+
+Prepared PY-004 and PROJ-PY-001 on `docs/day-4-python-functions` for PR review; not yet published on main. Teaches functions, arguments/defaults, return versus print, local variables and the lists needed for the student-score CLI. The project validates whole-number marks from 0 to 100, handles empty input and EOF, and reports count, total, mean, minimum and maximum.
+
+Includes separate questions/solutions, revision notes, project instructions and automated checks. Validation covers invalid inputs, range boundaries, empty and zero-only data, rounding, calculation side effects, repeated input, EOF and safe importing, plus executable teaching snippets and relative links. All eight tests, six teaching snippets and the documented sample report passed on Python 3.12.14; 65 relative links and curriculum paths were checked. This implements the D010 score-CLI scope for review; it does not complete all remaining D009 collections topics or D011 file handling. Daily automation remains inactive.
+
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach functions and build a student-score summary CLI inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-004 and its project, then teach file handling to save and reload scores inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

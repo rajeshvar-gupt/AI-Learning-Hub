@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-03",
+  "updated": "2026-10-07",
   "publication_status": "published",
   "resources": [
     {
@@ -69,6 +69,30 @@
       "assignment": "assignments/PY-003/questions.md",
       "solutions": "assignments/PY-003/solutions.md",
       "notes": "notes/cheat-sheets/python-loops.md"
+    },
+    {
+      "id": "PY-004",
+      "title": "Functions and a student-score summary",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/04-functions-and-score-summary.md",
+      "example": "projects/beginner/student-score-summary/score_summary.py",
+      "assignment": "assignments/PY-004/questions.md",
+      "solutions": "assignments/PY-004/solutions.md",
+      "notes": "notes/cheat-sheets/python-functions.md"
+    },
+    {
+      "id": "PROJ-PY-001",
+      "title": "Student-score summary CLI",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-004"
+      ],
+      "status": "prepared",
+      "path": "projects/beginner/student-score-summary/README.md"
     }
   ],
   "architecture": "single-repository",
