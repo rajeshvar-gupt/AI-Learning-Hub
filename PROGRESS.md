@@ -15,7 +15,7 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Python tutorials PY-001 through PY-007 and student-score project | Published |
+| Python tutorials PY-001 through PY-010 and student-score project | Published |
 | Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
@@ -65,10 +65,10 @@ Published PY-007 through [PR #6](https://github.com/rajeshvar-gupt/AI-Learning-H
 
 ## Sessions Day 8–10 · 9 October 2026
 
-Prepared PY-008, PY-009 and PY-010 together on `docs/day-8-10-python-tooling` for review; not published on main. The bundle covers environments/dependencies, Git workflow, and HTTP/JSON fundamentals, matching D013. Includes an environment checker, offline response validator, automated response tests and five exercises with separate solutions for each unit. Validation on Linux with Python 3.12.14 and Git 2.51.1: fresh venv creation, interpreter checker and pip inspection passed; 8 existing learner tests and 6 response tests passed inside that environment. Local Git branch/stage/diff/unstage/commit checks, the JSON snippet and exact demo output passed. Checked 62 relative links and curriculum paths. Windows commands were documented but not executed; remote GitHub clone/push and real HTTP traffic were not tested. Official Python, pip, Git and MDN references checked on 9 October 2026. No new GitHub repository or external API account is required. Daily automation remains inactive.
+Published PY-008, PY-009 and PY-010 together through [PR #7](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/7), merged on 9 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/347ff453690a3e6fefccf25e91ee56ba0ebb134d)). The bundle covers environments/dependencies, Git workflow, and HTTP/JSON fundamentals, matching D013. Includes an environment checker, offline response validator, automated response tests and five exercises with separate solutions for each unit. Validation on Linux with Python 3.12.14 and Git 2.51.1: fresh venv creation, interpreter checker and pip inspection passed; 8 existing learner tests and 6 response tests passed inside that environment. Local Git branch/stage/diff/unstage/commit checks, the JSON snippet and exact demo output passed. Checked 62 relative links and curriculum paths. Windows commands were documented but not executed; remote GitHub clone/push and real HTTP traffic were not tested. Official Python, pip, Git and MDN references checked on 9 October 2026. No new GitHub repository or external API account is required. Daily automation remains inactive.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-008 through PY-010, then prepare a foundations review, interview questions and an integrated three-level practice assignment inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Prepare a foundations review, interview questions and an integrated three-level practice assignment inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)
