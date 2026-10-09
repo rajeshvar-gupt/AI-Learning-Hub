@@ -30,3 +30,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 ## Path through core machine learning
 
 [Open the complete Python-to-ML path](THROUGH-ML.md): 16 new lessons with exercises and solutions, five offline labs, revision/interview notes and validation evidence. This combined release is published; deep learning and later specializations remain planned.
+
+## Deep learning extension
+
+[Five deep learning lessons and the digits neural-network project](subjects/deep-learning/README.md) are prepared for review. Includes manual backpropagation, gradient checks and validation checkpointing.

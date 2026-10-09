@@ -428,6 +428,77 @@
       "status": "published",
       "path": "projects/intermediate/book-recommender/README.md",
       "example": "projects/intermediate/book-recommender/recommend.py"
+    },
+    {
+      "id": "DL-001",
+      "title": "Neurons, layers and tensor shapes",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-007"
+      ],
+      "status": "prepared",
+      "path": "subjects/deep-learning/01-networks.md",
+      "assignment": "assignments/DL-001/questions.md",
+      "solutions": "assignments/DL-001/solutions.md"
+    },
+    {
+      "id": "DL-002",
+      "title": "Softmax, cross-entropy and backpropagation",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/deep-learning/02-backpropagation.md",
+      "assignment": "assignments/DL-002/questions.md",
+      "solutions": "assignments/DL-002/solutions.md"
+    },
+    {
+      "id": "DL-003",
+      "title": "Mini-batches, validation and checkpoints",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/deep-learning/03-training.md",
+      "assignment": "assignments/DL-003/questions.md",
+      "solutions": "assignments/DL-003/solutions.md"
+    },
+    {
+      "id": "DL-004",
+      "title": "Regularization and diagnosing training failures",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/deep-learning/04-generalization.md",
+      "assignment": "assignments/DL-004/questions.md",
+      "solutions": "assignments/DL-004/solutions.md"
+    },
+    {
+      "id": "DL-005",
+      "title": "Framework transition and deep-learning assessment",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-004"
+      ],
+      "status": "prepared",
+      "path": "subjects/deep-learning/05-frameworks-review.md",
+      "assignment": "assignments/DL-005/questions.md",
+      "solutions": "assignments/DL-005/solutions.md"
+    },
+    {
+      "id": "PROJ-DL-001",
+      "title": "Digits neural network from scratch",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-004"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/digits-neural-network/README.md",
+      "example": "projects/intermediate/digits-neural-network/train.py"
     }
   ],
   "architecture": "single-repository",
