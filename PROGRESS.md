@@ -15,7 +15,7 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Python tutorials PY-001 through PY-005 and student-score project | Published |
+| Python tutorials PY-001 through PY-006 and student-score project | Published |
 | Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
@@ -57,10 +57,10 @@ Saves refuse existing targets and validate input before creating files. Loads re
 
 ## Session Day 6 · 9 October 2026
 
-Prepared PY-006 on `docs/day-6-python-collections` for review; not yet published on main. Covers lists, tuples, dictionaries and sets, indexing/slicing, shallow copying, nested mutability, membership, hashability and comprehensions. Includes a fixed-data enrollment example, eight exercises with separate solutions and a revision sheet. Validation on Python 3.12.14: 11 teaching snippets, exact example output, empty/duplicate grouping, input preservation and independent course lists, plus collection error checks passed. Checked 44 relative links and curriculum paths. This expands D009 collections coverage. Daily automation remains inactive.
+Published PY-006 through [PR #5](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/5), merged on 9 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/e06309bd0a635551d3b242ba5e595a2680229360)). Covers lists, tuples, dictionaries and sets, indexing/slicing, shallow copying, nested mutability, membership, hashability and comprehensions. Includes a fixed-data enrollment example, eight exercises with separate solutions and a revision sheet. Validation on Python 3.12.14: 11 teaching snippets, exact example output, empty/duplicate grouping, input preservation and independent course lists, plus collection error checks passed. Checked 44 relative links and curriculum paths. This expands D009 collections coverage. Daily automation remains inactive.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-006, then teach classes and objects with a small learner record inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach classes and objects with a small learner record inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)
