@@ -162,4 +162,4 @@ group_enrollments expects pairs of string IDs/course names; it is a fixed-data t
 
 Complete [eight exercises](../../../assignments/PY-006/questions.md), then check [solutions](../../../assignments/PY-006/solutions.md). Use the [revision sheet](../../../notes/cheat-sheets/python-collections.md).
 
-Next planned unit: classes and objects using a small learner record. [Python home](../README.md)
+Next: [PY-007: classes and objects](07-classes-and-objects.md). [Python home](../README.md)
