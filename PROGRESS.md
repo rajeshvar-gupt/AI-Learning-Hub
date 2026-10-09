@@ -72,3 +72,13 @@ Published PY-008, PY-009 and PY-010 together through [PR #7](https://github.com/
 Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Prepare a foundations review, interview questions and an integrated three-level practice assignment inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)
+
+## 2026-10-09 · Combined path through core ML
+
+Requested: complete remaining content through machine learning in the existing hub.
+
+Prepared for review: PY-011, MATH-001–003, STAT-001–002, DATA-001–003 and ML-001–007; separate exercise/solution sets for every lesson; five offline projects; a sales notebook wrapper; revision/interview sheet; model-card template; pinned environment; and validation evidence. See [THROUGH-ML.md](THROUGH-ML.md) and [VALIDATION-ML.md](VALIDATION-ML.md).
+
+This entry records content implementation, not learner mastery. Existing published resources retain their status. New registry entries remain prepared pending substantial-change review. Deep learning onward is still planned. Legacy project repairs and original roadmap dates remain separate. The daily automation remains inactive.
+
+Next session: review this combined release, address feedback and merge only after the review requirement is satisfied. Then update the prepared registry/status entries to published with the actual merge evidence. Do not create another learning repository.

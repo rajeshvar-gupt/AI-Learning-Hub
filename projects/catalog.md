@@ -19,3 +19,13 @@ Start with a project whose inputs and outputs you can explain. If you are learni
 An incomplete project can be a useful design exercise, but it should not be assigned as a working lab until repaired and tested.
 
 [Readiness](readiness.md) · [Home](README.md)
+
+## New offline teaching labs (prepared for review)
+
+- [Numerical foundations](intermediate/foundations-lab/README.md)
+- [Synthetic sales analysis](intermediate/sales-analysis/README.md)
+- [Regression and classification benchmark](intermediate/supervised-ml/README.md)
+- [Clustering and PCA exploration](intermediate/unsupervised-ml/README.md)
+- [Content-based book retrieval](intermediate/book-recommender/README.md)
+
+These are new material inside this hub. They do not repair or validate the historical external projects. [Full study path](../THROUGH-ML.md).

@@ -14,3 +14,13 @@ A project should show a problem, a working approach, evidence and limitations. T
 - [Readiness and repair backlog](readiness.md)
 
 Projects are indexed by difficulty and topic. Existing standalone repositories remain the home of their code. Later difficulty folders will be populated only when a real project is added. “Industry-level” will require operational evidence, not just a polished interface.
+
+## New offline teaching labs (prepared for review)
+
+- [Numerical foundations](intermediate/foundations-lab/README.md)
+- [Synthetic sales analysis](intermediate/sales-analysis/README.md)
+- [Regression and classification benchmark](intermediate/supervised-ml/README.md)
+- [Clustering and PCA exploration](intermediate/unsupervised-ml/README.md)
+- [Content-based book retrieval](intermediate/book-recommender/README.md)
+
+These are new material inside this hub. They do not repair or validate the historical external projects. [Full study path](../THROUGH-ML.md).
