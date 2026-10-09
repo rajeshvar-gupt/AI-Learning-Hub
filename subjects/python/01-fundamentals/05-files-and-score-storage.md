@@ -89,4 +89,4 @@ This is a text snapshot tool, not a database. It does not append sessions, store
 
 Run the [project tests](../../../projects/beginner/student-score-summary/README.md), attempt the [questions](../../../assignments/PY-005/questions.md), then read the [solutions](../../../assignments/PY-005/solutions.md). [Revision sheet](../../../notes/cheat-sheets/python-files.md).
 
-Next planned unit: collections in depth—lists, tuples, dictionaries and sets. [Python home](../README.md)
+Next: [PY-006: collections in depth](06-collections-in-depth.md). [Python home](../README.md)

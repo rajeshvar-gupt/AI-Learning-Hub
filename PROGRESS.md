@@ -1,6 +1,6 @@
 # Progress
 
-Updated 8 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
+Updated 9 October 2026. **One public AI-Learning-Hub repository contains all new learning resources.**
 
 ## Foundation release
 
@@ -55,8 +55,12 @@ Published PY-005 through [PR #4](https://github.com/rajeshvar-gupt/AI-Learning-H
 
 Saves refuse existing targets and validate input before creating files. Loads reject invalid records with line numbers. Empty, missing, malformed and non-UTF-8 files have explicit behavior. Tests use temporary files; permission failure is simulated. Validation: all 19 project tests (11 file tests plus 8 existing tests), both file lesson snippets, 50 relative links and curriculum paths passed on Python 3.12.14. This advances D011 file handling and module reuse; classes remain planned. Daily automation remains inactive.
 
+## Session Day 6 · 9 October 2026
+
+Prepared PY-006 on `docs/day-6-python-collections` for review; not yet published on main. Covers lists, tuples, dictionaries and sets, indexing/slicing, shallow copying, nested mutability, membership, hashability and comprehensions. Includes a fixed-data enrollment example, eight exercises with separate solutions and a revision sheet. Validation on Python 3.12.14: 11 teaching snippets, exact example output, empty/duplicate grouping, input preservation and independent course lists, plus collection error checks passed. Checked 44 relative links and curriculum paths. This expands D009 collections coverage. Daily automation remains inactive.
+
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach collections in depth inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-006, then teach classes and objects with a small learner record inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)
