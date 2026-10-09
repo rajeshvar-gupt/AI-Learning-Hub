@@ -136,6 +136,45 @@
       "assignment": "assignments/PY-007/questions.md",
       "solutions": "assignments/PY-007/solutions.md",
       "notes": "notes/cheat-sheets/python-classes.md"
+    },
+    {
+      "id": "PY-008",
+      "title": "Environments and reproducible setup",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-007"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/02-tools/08-environments-and-dependencies.md",
+      "assignment": "assignments/PY-008/questions.md",
+      "solutions": "assignments/PY-008/solutions.md",
+      "example": "subjects/python/examples/environment_check.py"
+    },
+    {
+      "id": "PY-009",
+      "title": "Git workflow in one repository",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-008"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/02-tools/09-git-workflow.md",
+      "assignment": "assignments/PY-009/questions.md",
+      "solutions": "assignments/PY-009/solutions.md"
+    },
+    {
+      "id": "PY-010",
+      "title": "HTTP and JSON fundamentals",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-004",
+        "PY-006"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/02-tools/10-http-and-json.md",
+      "assignment": "assignments/PY-010/questions.md",
+      "solutions": "assignments/PY-010/solutions.md",
+      "example": "subjects/python/examples/http_json_demo.py"
     }
   ],
   "architecture": "single-repository",

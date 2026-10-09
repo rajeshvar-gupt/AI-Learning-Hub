@@ -63,8 +63,12 @@ Published PY-006 through [PR #5](https://github.com/rajeshvar-gupt/AI-Learning-H
 
 Published PY-007 through [PR #6](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/6), merged on 9 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/545a847167522d104c7d351e967a063d93d9168c)). Covers classes, instances, __init__, self, attributes, methods, independent mutable state and internal naming conventions. Includes a learner-record example, eight exercises with separate solutions, revision notes and automated tests. Validation: all eight tests, two lesson snippets and the combined assignment solution passed; 47 relative links and curriculum paths were checked. It advances the basic-classes portion of D011; inheritance and other advanced OOP topics remain planned. Daily automation remains inactive.
 
+## Sessions Day 8–10 · 9 October 2026
+
+Prepared PY-008, PY-009 and PY-010 together on `docs/day-8-10-python-tooling` for review; not published on main. The bundle covers environments/dependencies, Git workflow, and HTTP/JSON fundamentals, matching D013. Includes an environment checker, offline response validator, automated response tests and five exercises with separate solutions for each unit. Validation on Linux with Python 3.12.14 and Git 2.51.1: fresh venv creation, interpreter checker and pip inspection passed; 8 existing learner tests and 6 response tests passed inside that environment. Local Git branch/stage/diff/unstage/commit checks, the JSON snippet and exact demo output passed. Checked 62 relative links and curriculum paths. Windows commands were documented but not executed; remote GitHub clone/push and real HTTP traffic were not tested. Official Python, pip, Git and MDN references checked on 9 October 2026. No new GitHub repository or external API account is required. Daily automation remains inactive.
+
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach environments, dependencies and reproducible project setup inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-008 through PY-010, then prepare a foundations review, interview questions and an integrated three-level practice assignment inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

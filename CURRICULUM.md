@@ -4,7 +4,7 @@ All subjects belong inside AI-Learning-Hub. Paths below are planned folder locat
 
 | Subject | Planned location | Status |
 |---|---|---|
-| Python | [subjects/python/](subjects/python/README.md) | PY-001 through PY-007 and the score project published; further units planned |
+| Python | [subjects/python/](subjects/python/README.md) | PY-001 through PY-007 and the score project published; PY-008 through PY-010 prepared for review |
 | Mathematics for AI | `subjects/mathematics/` | Planned |
 | Statistics | `subjects/statistics/` | Planned |
 | Data analysis and SQL | `subjects/data-analysis/` | Planned |
