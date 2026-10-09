@@ -29,3 +29,7 @@ An incomplete project can be a useful design exercise, but it should not be assi
 - [Content-based book retrieval](intermediate/book-recommender/README.md)
 
 These are new material inside this hub. They do not repair or validate the historical external projects. [Full study path](../THROUGH-ML.md).
+
+## Deep learning project (prepared for review)
+
+[Digits neural network from scratch](intermediate/digits-neural-network/README.md): two hidden layers, manual gradients, numerical gradient checks and validation-selected checkpoints.

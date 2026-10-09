@@ -84,3 +84,7 @@ This entry records content implementation, not learner mastery. Existing publish
 Publication: [PR #8](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/8) merged on 2026-10-09 at commit `dc46a269e1828c1fa36ea3d51ad67bb6ade59809`. The user requested completion after the review-ready release was presented. The previously validated code is unchanged: 50 tests passed. No hosted CI checks were configured on this PR.
 
 Next session: support the published exercises or continue into deep learning when requested. Do not create another learning repository.
+
+## 2026-10-09 · Deep learning extension
+
+Prepared DL-001–005, separate assignments/solutions, revision sheet, primary references and a NumPy digits network with two hidden layers. See [module](subjects/deep-learning/README.md) and [validation](VALIDATION-DL.md). New resources remain prepared pending review. This implements dense-network foundations; later architecture specializations remain planned. The daily automation remains inactive.

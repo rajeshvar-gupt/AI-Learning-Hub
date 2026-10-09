@@ -9,7 +9,7 @@ All subjects belong inside AI-Learning-Hub. Linked modules exist; unlinked folde
 | Statistics | [subjects/statistics/](subjects/statistics/README.md) | Published |
 | Data analysis and SQL | [subjects/data-analysis/](subjects/data-analysis/README.md) | Published |
 | Machine learning | [subjects/machine-learning/](subjects/machine-learning/README.md) | Published |
-| Deep learning | `subjects/deep-learning/` | Planned |
+| Deep learning | [subjects/deep-learning/](subjects/deep-learning/README.md) | DL-001–005 and digits project prepared for review |
 | Computer vision | `subjects/computer-vision/` | Planned |
 | Natural language processing | `subjects/nlp/` | Planned |
 | Transformers | `subjects/transformers/` | Planned |
