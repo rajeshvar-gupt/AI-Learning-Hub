@@ -1,0 +1,165 @@
+{
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0"
+  },
+  "regression": {
+    "task": "regression",
+    "seed": 42,
+    "train_rows": 240,
+    "test_rows": 80,
+    "cv_folds": 5,
+    "selection_scoring": "neg_mean_absolute_error",
+    "candidates": [
+      {
+        "name": "mean_baseline",
+        "cv_score": -91.48353726528572,
+        "cv_std": 8.921169339626804,
+        "params": {}
+      },
+      {
+        "name": "ridge",
+        "cv_score": -9.26896551109433,
+        "cv_std": 1.021863006630878,
+        "params": {
+          "model__alpha": 1.0
+        }
+      },
+      {
+        "name": "forest",
+        "cv_score": -32.42497267453259,
+        "cv_std": 2.643829588852643,
+        "params": {
+          "model__max_depth": null
+        }
+      }
+    ],
+    "selected": "ridge",
+    "baseline_test": {
+      "mae": 94.54030425899944,
+      "rmse": 115.2182759098563,
+      "r2": -0.03995605520673129
+    },
+    "selected_test": {
+      "mae": 9.418685629428586,
+      "rmse": 12.25174034681582,
+      "r2": 0.9882410698201698
+    }
+  },
+  "classification": {
+    "task": "classification",
+    "seed": 42,
+    "train_rows": 112,
+    "test_rows": 38,
+    "cv_folds": 5,
+    "selection_scoring": "f1_macro",
+    "candidates": [
+      {
+        "name": "majority_baseline",
+        "cv_score": 0.16874057594858485,
+        "cv_std": 0.006720422123626311,
+        "params": {}
+      },
+      {
+        "name": "logistic",
+        "cv_score": 0.9638009049773757,
+        "cv_std": 0.052768795428464285,
+        "params": {
+          "model__C": 1.0
+        }
+      },
+      {
+        "name": "tree",
+        "cv_score": 0.9361130264071441,
+        "cv_std": 0.02214163168316526,
+        "params": {
+          "model__max_depth": 4
+        }
+      },
+      {
+        "name": "forest",
+        "cv_score": 0.9628590581531759,
+        "cv_std": 0.03468282289089138,
+        "params": {
+          "model__max_depth": null
+        }
+      },
+      {
+        "name": "knn",
+        "cv_score": 0.973011563599799,
+        "cv_std": 0.022037923662472862,
+        "params": {
+          "model__n_neighbors": 3
+        }
+      },
+      {
+        "name": "svm",
+        "cv_score": 0.9638009049773757,
+        "cv_std": 0.052768795428464285,
+        "params": {
+          "model__C": 1.0
+        }
+      },
+      {
+        "name": "naive_bayes",
+        "cv_score": 0.973093083387201,
+        "cv_std": 0.03577565678833492,
+        "params": {}
+      }
+    ],
+    "selected": "naive_bayes",
+    "baseline_test": {
+      "accuracy": 0.3157894736842105,
+      "macro_f1": 0.16,
+      "confusion_matrix": [
+        [
+          12,
+          0,
+          0
+        ],
+        [
+          13,
+          0,
+          0
+        ],
+        [
+          13,
+          0,
+          0
+        ]
+      ],
+      "label_order": [
+        "setosa",
+        "versicolor",
+        "virginica"
+      ]
+    },
+    "selected_test": {
+      "accuracy": 0.9210526315789473,
+      "macro_f1": 0.9229629629629629,
+      "confusion_matrix": [
+        [
+          12,
+          0,
+          0
+        ],
+        [
+          0,
+          12,
+          1
+        ],
+        [
+          0,
+          2,
+          11
+        ]
+      ],
+      "label_order": [
+        "setosa",
+        "versicolor",
+        "virginica"
+      ]
+    }
+  }
+}

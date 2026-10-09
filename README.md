@@ -26,3 +26,7 @@ The first release contains foundations and learning guides. Most subject modules
 [90-day plan](ROADMAP.md) · [Progress](PROGRESS.md) · [Architecture](ARCHITECTURE.md) · [Contributing](CONTRIBUTING.md)
 
 All new learning content will be maintained inside **AI-Learning-Hub**. Existing unrelated repositories remain unchanged. Legacy project links are references during migration/review, not separate new curriculum repositories.
+
+## Path through core machine learning
+
+[Open the complete Python-to-ML path](THROUGH-ML.md): 16 new lessons with exercises and solutions, five offline labs, revision/interview notes and validation evidence. This combined release is prepared for review; deep learning and later specializations remain planned.

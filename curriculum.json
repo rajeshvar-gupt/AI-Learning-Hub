@@ -175,6 +175,259 @@
       "assignment": "assignments/PY-010/questions.md",
       "solutions": "assignments/PY-010/solutions.md",
       "example": "subjects/python/examples/http_json_demo.py"
+    },
+    {
+      "id": "PY-011",
+      "title": "Python integration and debugging",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-010"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/03-review.md",
+      "assignment": "assignments/PY-011/questions.md",
+      "solutions": "assignments/PY-011/solutions.md"
+    },
+    {
+      "id": "MATH-001",
+      "title": "Vectors, matrices and shapes",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-011"
+      ],
+      "status": "prepared",
+      "path": "subjects/mathematics/01-vectors-matrices.md",
+      "assignment": "assignments/MATH-001/questions.md",
+      "solutions": "assignments/MATH-001/solutions.md"
+    },
+    {
+      "id": "MATH-002",
+      "title": "Derivatives and gradient descent",
+      "level": "beginner",
+      "prerequisites": [
+        "MATH-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/mathematics/02-calculus-optimization.md",
+      "assignment": "assignments/MATH-002/questions.md",
+      "solutions": "assignments/MATH-002/solutions.md"
+    },
+    {
+      "id": "MATH-003",
+      "title": "Probability and conditional reasoning",
+      "level": "beginner",
+      "prerequisites": [
+        "MATH-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/mathematics/03-probability.md",
+      "assignment": "assignments/MATH-003/questions.md",
+      "solutions": "assignments/MATH-003/solutions.md"
+    },
+    {
+      "id": "STAT-001",
+      "title": "Descriptive statistics and sampling",
+      "level": "beginner",
+      "prerequisites": [
+        "MATH-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/statistics/01-description-sampling.md",
+      "assignment": "assignments/STAT-001/questions.md",
+      "solutions": "assignments/STAT-001/solutions.md"
+    },
+    {
+      "id": "STAT-002",
+      "title": "Confidence intervals and hypothesis tests",
+      "level": "beginner",
+      "prerequisites": [
+        "STAT-001",
+        "MATH-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/statistics/02-inference.md",
+      "assignment": "assignments/STAT-002/questions.md",
+      "solutions": "assignments/STAT-002/solutions.md"
+    },
+    {
+      "id": "DATA-001",
+      "title": "NumPy arrays and vectorization",
+      "level": "beginner",
+      "prerequisites": [
+        "MATH-001",
+        "STAT-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/data-analysis/01-numpy.md",
+      "assignment": "assignments/DATA-001/questions.md",
+      "solutions": "assignments/DATA-001/solutions.md"
+    },
+    {
+      "id": "DATA-002",
+      "title": "pandas cleaning, grouping and joins",
+      "level": "beginner",
+      "prerequisites": [
+        "DATA-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/data-analysis/02-pandas.md",
+      "assignment": "assignments/DATA-002/questions.md",
+      "solutions": "assignments/DATA-002/solutions.md"
+    },
+    {
+      "id": "DATA-003",
+      "title": "SQL analysis and communicating results",
+      "level": "beginner",
+      "prerequisites": [
+        "DATA-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/data-analysis/03-sql-visualization.md",
+      "assignment": "assignments/DATA-003/questions.md",
+      "solutions": "assignments/DATA-003/solutions.md"
+    },
+    {
+      "id": "ML-001",
+      "title": "Problem framing, splits and baselines",
+      "level": "intermediate",
+      "prerequisites": [
+        "DATA-003",
+        "STAT-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/01-problem-framing.md",
+      "assignment": "assignments/ML-001/questions.md",
+      "solutions": "assignments/ML-001/solutions.md"
+    },
+    {
+      "id": "ML-002",
+      "title": "Linear regression and regularization",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-001",
+        "MATH-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/02-regression.md",
+      "assignment": "assignments/ML-002/questions.md",
+      "solutions": "assignments/ML-002/solutions.md"
+    },
+    {
+      "id": "ML-003",
+      "title": "Classification and decision metrics",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/03-classification.md",
+      "assignment": "assignments/ML-003/questions.md",
+      "solutions": "assignments/ML-003/solutions.md"
+    },
+    {
+      "id": "ML-004",
+      "title": "Trees, ensembles and alternative models",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/04-model-families.md",
+      "assignment": "assignments/ML-004/questions.md",
+      "solutions": "assignments/ML-004/solutions.md"
+    },
+    {
+      "id": "ML-005",
+      "title": "Clustering and dimensionality reduction",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-004",
+        "MATH-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/05-clustering-pca.md",
+      "assignment": "assignments/ML-005/questions.md",
+      "solutions": "assignments/ML-005/solutions.md"
+    },
+    {
+      "id": "ML-006",
+      "title": "Content-based book recommendations",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-005"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/06-recommenders.md",
+      "assignment": "assignments/ML-006/questions.md",
+      "solutions": "assignments/ML-006/solutions.md"
+    },
+    {
+      "id": "ML-007",
+      "title": "Reproducibility, error analysis and capstone review",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-006"
+      ],
+      "status": "prepared",
+      "path": "subjects/machine-learning/07-review.md",
+      "assignment": "assignments/ML-007/questions.md",
+      "solutions": "assignments/ML-007/solutions.md"
+    },
+    {
+      "id": "PROJ-FOUNDATIONS-LAB",
+      "title": "Numerical foundations",
+      "level": "intermediate",
+      "prerequisites": [
+        "MATH-002",
+        "STAT-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/foundations-lab/README.md",
+      "example": "projects/intermediate/foundations-lab/foundations.py"
+    },
+    {
+      "id": "PROJ-SALES-ANALYSIS",
+      "title": "Synthetic sales analysis",
+      "level": "intermediate",
+      "prerequisites": [
+        "DATA-003"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/sales-analysis/README.md",
+      "example": "projects/intermediate/sales-analysis/sales.py"
+    },
+    {
+      "id": "PROJ-SUPERVISED-ML",
+      "title": "Regression and classification benchmark",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-004"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/supervised-ml/README.md",
+      "example": "projects/intermediate/supervised-ml/train.py"
+    },
+    {
+      "id": "PROJ-UNSUPERVISED-ML",
+      "title": "Clustering and PCA exploration",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-005"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/unsupervised-ml/README.md",
+      "example": "projects/intermediate/unsupervised-ml/explore.py"
+    },
+    {
+      "id": "PROJ-BOOK-RECOMMENDER",
+      "title": "Content-based book retrieval",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-006"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/book-recommender/README.md",
+      "example": "projects/intermediate/book-recommender/recommend.py"
     }
   ],
   "architecture": "single-repository",
