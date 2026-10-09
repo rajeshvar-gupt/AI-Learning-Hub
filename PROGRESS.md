@@ -15,7 +15,7 @@ Published in this repository's main branch. This is the initial documentation an
 | Diagnostic assignment and separate solutions | Published |
 | Existing-project catalog, readiness backlog and authoring template | Published |
 | 90-day development plan | Published plan; tasks remain to be implemented |
-| Python tutorials PY-001 through PY-006 and student-score project | Published |
+| Python tutorials PY-001 through PY-007 and student-score project | Published |
 | Further subject tutorials and new project implementations | Planned |
 | Legacy project repairs or migration | Pending review; not performed |
 
@@ -61,10 +61,10 @@ Published PY-006 through [PR #5](https://github.com/rajeshvar-gupt/AI-Learning-H
 
 ## Session Day 7 · 9 October 2026
 
-Prepared PY-007 on `docs/day-7-python-classes` for review; not published on main. Covers classes, instances, __init__, self, attributes, methods, independent mutable state and internal naming conventions. Includes a learner-record example, eight exercises with separate solutions, revision notes and automated tests. Validation: all eight tests, two lesson snippets and the combined assignment solution passed; 47 relative links and curriculum paths were checked. It advances the basic-classes portion of D011; inheritance and other advanced OOP topics remain planned. Daily automation remains inactive.
+Published PY-007 through [PR #6](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/6), merged on 9 October 2026 ([merge commit](https://github.com/rajeshvar-gupt/AI-Learning-Hub/commit/545a847167522d104c7d351e967a063d93d9168c)). Covers classes, instances, __init__, self, attributes, methods, independent mutable state and internal naming conventions. Includes a learner-record example, eight exercises with separate solutions, revision notes and automated tests. Validation: all eight tests, two lesson snippets and the combined assignment solution passed; 47 relative links and curriculum paths were checked. It advances the basic-classes portion of D011; inheritance and other advanced OOP topics remain planned. Daily automation remains inactive.
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Review PY-007, then teach environments, dependencies and reproducible project setup inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Teach environments, dependencies and reproducible project setup inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
 
 [Home](README.md)

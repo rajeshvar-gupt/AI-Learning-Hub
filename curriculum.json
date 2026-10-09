@@ -130,7 +130,7 @@
         "PY-004",
         "PY-006"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/01-fundamentals/07-classes-and-objects.md",
       "example": "subjects/python/examples/learner_record.py",
       "assignment": "assignments/PY-007/questions.md",
