@@ -121,4 +121,4 @@ python3 -m unittest discover -s subjects/python/examples -p 'test_learner_record
 
 Complete [eight exercises](../../../assignments/PY-007/questions.md) before reading [solutions](../../../assignments/PY-007/solutions.md). [Revision sheet](../../../notes/cheat-sheets/python-classes.md).
 
-Next planned unit: Python environments, dependencies and reproducible project setup. [Python home](../README.md)
+Next: [PY-008: environments and dependencies](../02-tools/08-environments-and-dependencies.md). [Python home](../README.md)
