@@ -1,6 +1,6 @@
 # Deep learning foundations
 
-Status: prepared for review. Prerequisite: the [core ML path](../../THROUGH-ML.md).
+Status: published. Prerequisite: the [core ML path](../../THROUGH-ML.md).
 
 - [DL-001 · Neurons, layers and tensor shapes](01-networks.md)
 - [DL-002 · Softmax, cross-entropy and backpropagation](02-backpropagation.md)

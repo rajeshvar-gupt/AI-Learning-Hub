@@ -1,6 +1,6 @@
 # Handwritten digits · neural network from scratch
 
-Status: prepared for review. Prerequisites: DL-001–DL-004.
+Status: published. Prerequisites: DL-001–DL-004.
 
 Train a 64→32→16→10 dense ReLU network with NumPy and manual backpropagation. The scikit-learn bundled digits dataset contains 1,797 images, each 8×8 pixels, with classes 0–9. No dataset download, API key or GPU is needed. Dataset provenance is available in `load_digits().DESCR`.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "publication_status": "published",
   "resources": [
     {
@@ -436,7 +436,7 @@
       "prerequisites": [
         "ML-007"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/deep-learning/01-networks.md",
       "assignment": "assignments/DL-001/questions.md",
       "solutions": "assignments/DL-001/solutions.md"
@@ -448,7 +448,7 @@
       "prerequisites": [
         "DL-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/deep-learning/02-backpropagation.md",
       "assignment": "assignments/DL-002/questions.md",
       "solutions": "assignments/DL-002/solutions.md"
@@ -460,7 +460,7 @@
       "prerequisites": [
         "DL-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/deep-learning/03-training.md",
       "assignment": "assignments/DL-003/questions.md",
       "solutions": "assignments/DL-003/solutions.md"
@@ -472,7 +472,7 @@
       "prerequisites": [
         "DL-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/deep-learning/04-generalization.md",
       "assignment": "assignments/DL-004/questions.md",
       "solutions": "assignments/DL-004/solutions.md"
@@ -484,7 +484,7 @@
       "prerequisites": [
         "DL-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/deep-learning/05-frameworks-review.md",
       "assignment": "assignments/DL-005/questions.md",
       "solutions": "assignments/DL-005/solutions.md"
@@ -496,7 +496,7 @@
       "prerequisites": [
         "DL-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/digits-neural-network/README.md",
       "example": "projects/intermediate/digits-neural-network/train.py"
     }

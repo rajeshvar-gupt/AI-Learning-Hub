@@ -69,7 +69,7 @@ Published PY-008, PY-009 and PY-010 together through [PR #7](https://github.com/
 
 ## Next session
 
-The core learning path through machine learning is published. Work through the exercises and capstone in [THROUGH-ML.md](THROUGH-ML.md). Deep learning is the next planned subject; begin it when requested. Track legacy repairs separately and keep all learning material in this repository.
+The core learning path through machine learning is published. Work through the exercises and capstone in [THROUGH-ML.md](THROUGH-ML.md). Deep learning foundations are now published; continue specialized architectures when requested. Track legacy repairs separately and keep all learning material in this repository.
 
 [Home](README.md)
 
@@ -83,8 +83,12 @@ This entry records content implementation, not learner mastery. Existing publish
 
 Publication: [PR #8](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/8) merged on 2026-10-09 at commit `dc46a269e1828c1fa36ea3d51ad67bb6ade59809`. The user requested completion after the review-ready release was presented. The previously validated code is unchanged: 50 tests passed. No hosted CI checks were configured on this PR.
 
-Next session: support the published exercises or continue into deep learning when requested. Do not create another learning repository.
+Next session: support the published exercises or continue beyond deep learning foundations when requested. Do not create another learning repository.
 
 ## 2026-10-09 · Deep learning extension
 
-Prepared DL-001–005, separate assignments/solutions, revision sheet, primary references and a NumPy digits network with two hidden layers. See [module](subjects/deep-learning/README.md) and [validation](VALIDATION-DL.md). New resources remain prepared pending review. This implements dense-network foundations; later architecture specializations remain planned. The daily automation remains inactive.
+Published DL-001–005, separate assignments/solutions, revision sheet, primary references and a NumPy digits network with two hidden layers. See [module](subjects/deep-learning/README.md) and [validation](VALIDATION-DL.md). All six new resources are published. This implements dense-network foundations; later architecture specializations remain planned. The daily automation remains inactive.
+
+## 2026-10-10 · Publication status finalized
+
+[PR #9](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/9) merged at commit `19206be7a517143589bff56156d09c7f2168e88f` following the user's instruction to proceed. An approval-service usage limit blocked the status-only follow-up; this update completes it. The tested implementation is unchanged: seven new tests passed and held-out digits accuracy was 95%. These tests were run for the original release, not rerun for this documentation-only update.

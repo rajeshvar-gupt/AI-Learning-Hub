@@ -33,4 +33,4 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 
 ## Deep learning extension
 
-[Five deep learning lessons and the digits neural-network project](subjects/deep-learning/README.md) are prepared for review. Includes manual backpropagation, gradient checks and validation checkpointing.
+[Five deep learning lessons and the digits neural-network project](subjects/deep-learning/README.md) are published. Includes manual backpropagation, gradient checks and validation checkpointing.
