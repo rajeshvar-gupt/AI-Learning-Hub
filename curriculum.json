@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "publication_status": "published",
   "resources": [
     {
@@ -107,6 +107,20 @@
       "assignment": "assignments/PY-005/questions.md",
       "solutions": "assignments/PY-005/solutions.md",
       "notes": "notes/cheat-sheets/python-files.md"
+    },
+    {
+      "id": "PY-006",
+      "title": "Collections in depth",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-004"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/06-collections-in-depth.md",
+      "example": "subjects/python/examples/course_collections.py",
+      "assignment": "assignments/PY-006/questions.md",
+      "solutions": "assignments/PY-006/solutions.md",
+      "notes": "notes/cheat-sheets/python-collections.md"
     }
   ],
   "architecture": "single-repository",
