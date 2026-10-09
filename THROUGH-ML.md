@@ -1,6 +1,6 @@
 # Complete learning path through core machine learning
 
-Status: implementation prepared for review; existing PY-001–PY-010 remain published. This release supplies the remaining instructional path through introductory core ML. Learner completion is demonstrated by solving the exercises and explaining results; creating these materials does not mark your personal mastery complete.
+Status: published on main through [PR #8](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/8), merged 2026-10-09. This release supplies the remaining instructional path through introductory core ML. Learner completion is demonstrated by solving the exercises and explaining results; creating these materials does not mark your personal mastery complete.
 
 ## Study sequence
 

@@ -1,6 +1,6 @@
 # Regression and classification benchmark
 
-Prerequisites: ML-004. Status: prepared for review in this curriculum release.
+Prerequisites: ML-004. Status: published in this curriculum release.
 
 Compare baseline and candidate pipelines with five-fold training CV, then evaluate the chosen model on a 25% holdout.
 

@@ -20,7 +20,7 @@ An incomplete project can be a useful design exercise, but it should not be assi
 
 [Readiness](readiness.md) · [Home](README.md)
 
-## New offline teaching labs (prepared for review)
+## New offline teaching labs (published)
 
 - [Numerical foundations](intermediate/foundations-lab/README.md)
 - [Synthetic sales analysis](intermediate/sales-analysis/README.md)

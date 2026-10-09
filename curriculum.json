@@ -183,7 +183,7 @@
       "prerequisites": [
         "PY-010"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/python/03-review.md",
       "assignment": "assignments/PY-011/questions.md",
       "solutions": "assignments/PY-011/solutions.md"
@@ -195,7 +195,7 @@
       "prerequisites": [
         "PY-011"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/mathematics/01-vectors-matrices.md",
       "assignment": "assignments/MATH-001/questions.md",
       "solutions": "assignments/MATH-001/solutions.md"
@@ -207,7 +207,7 @@
       "prerequisites": [
         "MATH-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/mathematics/02-calculus-optimization.md",
       "assignment": "assignments/MATH-002/questions.md",
       "solutions": "assignments/MATH-002/solutions.md"
@@ -219,7 +219,7 @@
       "prerequisites": [
         "MATH-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/mathematics/03-probability.md",
       "assignment": "assignments/MATH-003/questions.md",
       "solutions": "assignments/MATH-003/solutions.md"
@@ -231,7 +231,7 @@
       "prerequisites": [
         "MATH-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/statistics/01-description-sampling.md",
       "assignment": "assignments/STAT-001/questions.md",
       "solutions": "assignments/STAT-001/solutions.md"
@@ -244,7 +244,7 @@
         "STAT-001",
         "MATH-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/statistics/02-inference.md",
       "assignment": "assignments/STAT-002/questions.md",
       "solutions": "assignments/STAT-002/solutions.md"
@@ -257,7 +257,7 @@
         "MATH-001",
         "STAT-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/data-analysis/01-numpy.md",
       "assignment": "assignments/DATA-001/questions.md",
       "solutions": "assignments/DATA-001/solutions.md"
@@ -269,7 +269,7 @@
       "prerequisites": [
         "DATA-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/data-analysis/02-pandas.md",
       "assignment": "assignments/DATA-002/questions.md",
       "solutions": "assignments/DATA-002/solutions.md"
@@ -281,7 +281,7 @@
       "prerequisites": [
         "DATA-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/data-analysis/03-sql-visualization.md",
       "assignment": "assignments/DATA-003/questions.md",
       "solutions": "assignments/DATA-003/solutions.md"
@@ -294,7 +294,7 @@
         "DATA-003",
         "STAT-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/01-problem-framing.md",
       "assignment": "assignments/ML-001/questions.md",
       "solutions": "assignments/ML-001/solutions.md"
@@ -307,7 +307,7 @@
         "ML-001",
         "MATH-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/02-regression.md",
       "assignment": "assignments/ML-002/questions.md",
       "solutions": "assignments/ML-002/solutions.md"
@@ -319,7 +319,7 @@
       "prerequisites": [
         "ML-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/03-classification.md",
       "assignment": "assignments/ML-003/questions.md",
       "solutions": "assignments/ML-003/solutions.md"
@@ -331,7 +331,7 @@
       "prerequisites": [
         "ML-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/04-model-families.md",
       "assignment": "assignments/ML-004/questions.md",
       "solutions": "assignments/ML-004/solutions.md"
@@ -344,7 +344,7 @@
         "ML-004",
         "MATH-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/05-clustering-pca.md",
       "assignment": "assignments/ML-005/questions.md",
       "solutions": "assignments/ML-005/solutions.md"
@@ -356,7 +356,7 @@
       "prerequisites": [
         "ML-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/06-recommenders.md",
       "assignment": "assignments/ML-006/questions.md",
       "solutions": "assignments/ML-006/solutions.md"
@@ -368,7 +368,7 @@
       "prerequisites": [
         "ML-006"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/machine-learning/07-review.md",
       "assignment": "assignments/ML-007/questions.md",
       "solutions": "assignments/ML-007/solutions.md"
@@ -381,7 +381,7 @@
         "MATH-002",
         "STAT-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/foundations-lab/README.md",
       "example": "projects/intermediate/foundations-lab/foundations.py"
     },
@@ -392,7 +392,7 @@
       "prerequisites": [
         "DATA-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/sales-analysis/README.md",
       "example": "projects/intermediate/sales-analysis/sales.py"
     },
@@ -403,7 +403,7 @@
       "prerequisites": [
         "ML-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/supervised-ml/README.md",
       "example": "projects/intermediate/supervised-ml/train.py"
     },
@@ -414,7 +414,7 @@
       "prerequisites": [
         "ML-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/unsupervised-ml/README.md",
       "example": "projects/intermediate/unsupervised-ml/explore.py"
     },
@@ -425,7 +425,7 @@
       "prerequisites": [
         "ML-006"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/book-recommender/README.md",
       "example": "projects/intermediate/book-recommender/recommend.py"
     }

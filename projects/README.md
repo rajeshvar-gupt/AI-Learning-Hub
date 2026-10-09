@@ -4,7 +4,7 @@ A project should show a problem, a working approach, evidence and limitations. T
 
 [Learning-Hub](../README.md) | [Learning-Roadmaps](../roadmaps/README.md) | [Notes](../notes/README.md) | [Projects](README.md)
 
-**Start with the [project catalog](catalog.md).** The first release is a reviewed catalog and project-writing guide; it does not add a runnable project or claim that existing applications were executed.
+**Start with the [project catalog](catalog.md).** The catalog includes the published student-score project and five offline teaching labs through core ML. Historical external applications retain their separate review statuses.
 
 ## Available beginner project
 
@@ -15,7 +15,7 @@ A project should show a problem, a working approach, evidence and limitations. T
 
 Projects are indexed by difficulty and topic. Existing standalone repositories remain the home of their code. Later difficulty folders will be populated only when a real project is added. “Industry-level” will require operational evidence, not just a polished interface.
 
-## New offline teaching labs (prepared for review)
+## New offline teaching labs (published)
 
 - [Numerical foundations](intermediate/foundations-lab/README.md)
 - [Synthetic sales analysis](intermediate/sales-analysis/README.md)

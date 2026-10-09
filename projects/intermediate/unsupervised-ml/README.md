@@ -1,6 +1,6 @@
 # Clustering and PCA exploration
 
-Prerequisites: ML-005. Status: prepared for review in this curriculum release.
+Prerequisites: ML-005. Status: published in this curriculum release.
 
 Fit K-means and PCA to 240 synthetic points; write diagnostic JSON and a projection PNG.
 

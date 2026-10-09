@@ -1,6 +1,6 @@
 # Numerical foundations
 
-Prerequisites: MATH-002, STAT-002. Status: prepared for review in this curriculum release.
+Prerequisites: MATH-002, STAT-002. Status: published in this curriculum release.
 
 Minimize `(w-3)^2`; summarize eight invented measurements and calculate a t interval/test.
 

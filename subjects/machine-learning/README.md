@@ -1,6 +1,6 @@
 # Machine Learning
 
-Prepared for review. Work in order; each lesson includes separate questions and worked solutions.
+Published. Work in order; each lesson includes separate questions and worked solutions.
 
 - [ML-001 · Problem framing, splits and baselines](01-problem-framing.md)
 - [ML-002 · Linear regression and regularization](02-regression.md)

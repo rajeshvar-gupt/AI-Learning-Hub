@@ -1,6 +1,6 @@
 # Synthetic sales analysis
 
-Prerequisites: DATA-003. Status: prepared for review in this curriculum release.
+Prerequisites: DATA-003. Status: published in this curriculum release.
 
 Clean eight input rows, audit exclusions, compare pandas and SQLite aggregates, and write CSV/PNG outputs.
 

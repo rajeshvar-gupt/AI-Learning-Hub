@@ -69,7 +69,7 @@ Published PY-008, PY-009 and PY-010 together through [PR #7](https://github.com/
 
 ## Next session
 
-Read ROADMAP.md, this progress file and open PRs. Select the first unfinished dependency-ready unit. Prepare a foundations review, interview questions and an integrated three-level practice assignment inside this hub, while tracking legacy repair work separately. Update navigation, validate and prepare a PR for subsequent substantial work. Never create additional learning repositories.
+The core learning path through machine learning is published. Work through the exercises and capstone in [THROUGH-ML.md](THROUGH-ML.md). Deep learning is the next planned subject; begin it when requested. Track legacy repairs separately and keep all learning material in this repository.
 
 [Home](README.md)
 
@@ -77,8 +77,10 @@ Read ROADMAP.md, this progress file and open PRs. Select the first unfinished de
 
 Requested: complete remaining content through machine learning in the existing hub.
 
-Prepared for review: PY-011, MATH-001–003, STAT-001–002, DATA-001–003 and ML-001–007; separate exercise/solution sets for every lesson; five offline projects; a sales notebook wrapper; revision/interview sheet; model-card template; pinned environment; and validation evidence. See [THROUGH-ML.md](THROUGH-ML.md) and [VALIDATION-ML.md](VALIDATION-ML.md).
+Published: PY-011, MATH-001–003, STAT-001–002, DATA-001–003 and ML-001–007; separate exercise/solution sets for every lesson; five offline projects; a sales notebook wrapper; revision/interview sheet; model-card template; pinned environment; and validation evidence. See [THROUGH-ML.md](THROUGH-ML.md) and [VALIDATION-ML.md](VALIDATION-ML.md).
 
-This entry records content implementation, not learner mastery. Existing published resources retain their status. New registry entries remain prepared pending substantial-change review. Deep learning onward is still planned. Legacy project repairs and original roadmap dates remain separate. The daily automation remains inactive.
+This entry records content implementation, not learner mastery. Existing published resources retain their status. All 21 new registry entries are published following the user's instruction to complete the release. Deep learning onward is still planned. Legacy project repairs and original roadmap dates remain separate. The daily automation remains inactive.
 
-Next session: review this combined release, address feedback and merge only after the review requirement is satisfied. Then update the prepared registry/status entries to published with the actual merge evidence. Do not create another learning repository.
+Publication: [PR #8](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/8) merged on 2026-10-09 at commit `dc46a269e1828c1fa36ea3d51ad67bb6ade59809`. The user requested completion after the review-ready release was presented. The previously validated code is unchanged: 50 tests passed. No hosted CI checks were configured on this PR.
+
+Next session: support the published exercises or continue into deep learning when requested. Do not create another learning repository.

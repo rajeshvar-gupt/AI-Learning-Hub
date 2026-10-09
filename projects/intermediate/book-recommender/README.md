@@ -1,6 +1,6 @@
 # Content-based book retrieval
 
-Prerequisites: ML-006. Status: prepared for review in this curriculum release.
+Prerequisites: ML-006. Status: published in this curriculum release.
 
 Rank original invented book descriptions by TF-IDF cosine similarity and exclude the query item.
 

@@ -1,6 +1,6 @@
 # Data Analysis
 
-Prepared for review. Work in order; each lesson includes separate questions and worked solutions.
+Published. Work in order; each lesson includes separate questions and worked solutions.
 
 - [DATA-001 · NumPy arrays and vectorization](01-numpy.md)
 - [DATA-002 · pandas cleaning, grouping and joins](02-pandas.md)
