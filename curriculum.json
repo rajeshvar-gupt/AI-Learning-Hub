@@ -121,6 +121,21 @@
       "assignment": "assignments/PY-006/questions.md",
       "solutions": "assignments/PY-006/solutions.md",
       "notes": "notes/cheat-sheets/python-collections.md"
+    },
+    {
+      "id": "PY-007",
+      "title": "Classes and objects",
+      "level": "beginner",
+      "prerequisites": [
+        "PY-004",
+        "PY-006"
+      ],
+      "status": "prepared",
+      "path": "subjects/python/01-fundamentals/07-classes-and-objects.md",
+      "example": "subjects/python/examples/learner_record.py",
+      "assignment": "assignments/PY-007/questions.md",
+      "solutions": "assignments/PY-007/solutions.md",
+      "notes": "notes/cheat-sheets/python-classes.md"
     }
   ],
   "architecture": "single-repository",
