@@ -92,3 +92,7 @@ Published DL-001–005, separate assignments/solutions, revision sheet, primary 
 ## 2026-10-10 · Publication status finalized
 
 [PR #9](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/9) merged at commit `19206be7a517143589bff56156d09c7f2168e88f` following the user's instruction to proceed. An approval-service usage limit blocked the status-only follow-up; this update completes it. The tested implementation is unchanged: seven new tests passed and held-out digits accuracy was 95%. These tests were run for the original release, not rerun for this documentation-only update.
+
+## 2026-10-11 · Computer vision and CNN extension
+
+Prepared CV-001–004 with separate exercises/solutions, revision notes, primary references and a runnable CNN with learned kernels. See [module](subjects/computer-vision/README.md) and [validation](VALIDATION-CV.md). Five new registry entries remain prepared pending review. This implements introductory classification; detection, segmentation and pretrained architecture training remain later work. All material stays in this hub. Daily automation remains inactive.
