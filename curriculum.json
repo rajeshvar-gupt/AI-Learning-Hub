@@ -507,7 +507,7 @@
       "prerequisites": [
         "DL-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/computer-vision/01-images.md",
       "assignment": "assignments/CV-001/questions.md",
       "solutions": "assignments/CV-001/solutions.md"
@@ -519,7 +519,7 @@
       "prerequisites": [
         "CV-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/computer-vision/02-convolution.md",
       "assignment": "assignments/CV-002/questions.md",
       "solutions": "assignments/CV-002/solutions.md"
@@ -531,7 +531,7 @@
       "prerequisites": [
         "CV-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/computer-vision/03-cnn-training.md",
       "assignment": "assignments/CV-003/questions.md",
       "solutions": "assignments/CV-003/solutions.md"
@@ -543,7 +543,7 @@
       "prerequisites": [
         "CV-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/computer-vision/04-tasks-review.md",
       "assignment": "assignments/CV-004/questions.md",
       "solutions": "assignments/CV-004/solutions.md"
@@ -555,7 +555,7 @@
       "prerequisites": [
         "CV-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/digits-cnn/README.md",
       "example": "projects/intermediate/digits-cnn/train.py"
     }

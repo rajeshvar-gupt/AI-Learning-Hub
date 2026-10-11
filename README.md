@@ -37,4 +37,4 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 
 ## Computer vision and CNN extension
 
-[Four lessons and a trainable NumPy CNN](subjects/computer-vision/README.md) are prepared for review, including worked exercises, numerical gradient checks and held-out evaluation.
+[Four lessons and a trainable NumPy CNN](subjects/computer-vision/README.md) are published, including worked exercises, numerical gradient checks and held-out evaluation.

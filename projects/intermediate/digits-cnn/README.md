@@ -1,6 +1,6 @@
 # Handwritten digits · CNN from scratch
 
-Status: prepared for review. Prerequisites: CV-001–CV-003.
+Status: published. Prerequisites: CV-001–CV-003.
 
 An actual trainable CNN: four 3×3 convolution kernels, ReLU, flatten and a dense ten-class head. Both kernels and the head learn by backpropagation. The network has 1,490 parameters. It uses scikit-learn's bundled grayscale digits, so no dataset download, API key or GPU is needed.
 

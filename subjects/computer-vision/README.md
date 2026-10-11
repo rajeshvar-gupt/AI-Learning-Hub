@@ -1,6 +1,6 @@
 # Computer vision and CNN foundations
 
-Status: prepared for review. Start after [deep learning](../deep-learning/README.md).
+Status: published. Start after [deep learning](../deep-learning/README.md).
 
 - [CV-001 · Images, channels and preprocessing](01-images.md)
 - [CV-002 · Convolution, receptive fields and pooling](02-convolution.md)

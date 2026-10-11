@@ -95,4 +95,8 @@ Published DL-001–005, separate assignments/solutions, revision sheet, primary 
 
 ## 2026-10-11 · Computer vision and CNN extension
 
-Prepared CV-001–004 with separate exercises/solutions, revision notes, primary references and a runnable CNN with learned kernels. See [module](subjects/computer-vision/README.md) and [validation](VALIDATION-CV.md). Five new registry entries remain prepared pending review. This implements introductory classification; detection, segmentation and pretrained architecture training remain later work. All material stays in this hub. Daily automation remains inactive.
+Published CV-001–004 with separate exercises/solutions, revision notes, primary references and a runnable CNN with learned kernels. See [module](subjects/computer-vision/README.md) and [validation](VALIDATION-CV.md). All five new registry entries are published. This implements introductory classification; detection, segmentation and pretrained architecture training remain later work. All material stays in this hub. Daily automation remains inactive.
+
+Publication: [PR #10](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/10) merged on 2026-10-11 at commit `1ac161d21339ffb72aadac0da607dc639622a8e3` after the user's instruction to proceed. Publication statuses and navigation are now finalized. The tested code is unchanged: six tests passed for this release, with 95.83% held-out digits accuracy. This documentation-only follow-up does not rerun those tests. No hosted CI checks were configured on the PR.
+
+Next session: study the published computer-vision exercises or add a further specialization when requested. Keep all learning material in this repository.
