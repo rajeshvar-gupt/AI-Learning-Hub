@@ -33,3 +33,7 @@ These are new material inside this hub. They do not repair or validate the histo
 ## Deep learning project (published)
 
 [Digits neural network from scratch](intermediate/digits-neural-network/README.md): two hidden layers, manual gradients, numerical gradient checks and validation-selected checkpoints.
+
+## Computer vision project (prepared for review)
+
+[Digits CNN from scratch](intermediate/digits-cnn/README.md): learned 3×3 kernels, manual gradients and validation-selected checkpoints.

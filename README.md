@@ -34,3 +34,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 ## Deep learning extension
 
 [Five deep learning lessons and the digits neural-network project](subjects/deep-learning/README.md) are published. Includes manual backpropagation, gradient checks and validation checkpointing.
+
+## Computer vision and CNN extension
+
+[Four lessons and a trainable NumPy CNN](subjects/computer-vision/README.md) are prepared for review, including worked exercises, numerical gradient checks and held-out evaluation.

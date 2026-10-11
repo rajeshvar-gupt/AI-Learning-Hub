@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "publication_status": "published",
   "resources": [
     {
@@ -499,6 +499,65 @@
       "status": "published",
       "path": "projects/intermediate/digits-neural-network/README.md",
       "example": "projects/intermediate/digits-neural-network/train.py"
+    },
+    {
+      "id": "CV-001",
+      "title": "Images, channels and preprocessing",
+      "level": "intermediate",
+      "prerequisites": [
+        "DL-005"
+      ],
+      "status": "prepared",
+      "path": "subjects/computer-vision/01-images.md",
+      "assignment": "assignments/CV-001/questions.md",
+      "solutions": "assignments/CV-001/solutions.md"
+    },
+    {
+      "id": "CV-002",
+      "title": "Convolution, receptive fields and pooling",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/computer-vision/02-convolution.md",
+      "assignment": "assignments/CV-002/questions.md",
+      "solutions": "assignments/CV-002/solutions.md"
+    },
+    {
+      "id": "CV-003",
+      "title": "Training a CNN and checking kernel gradients",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/computer-vision/03-cnn-training.md",
+      "assignment": "assignments/CV-003/questions.md",
+      "solutions": "assignments/CV-003/solutions.md"
+    },
+    {
+      "id": "CV-004",
+      "title": "Vision tasks, architecture choices and evaluation",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/computer-vision/04-tasks-review.md",
+      "assignment": "assignments/CV-004/questions.md",
+      "solutions": "assignments/CV-004/solutions.md"
+    },
+    {
+      "id": "PROJ-CV-001",
+      "title": "Digits CNN from scratch",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-003"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/digits-cnn/README.md",
+      "example": "projects/intermediate/digits-cnn/train.py"
     }
   ],
   "architecture": "single-repository",
