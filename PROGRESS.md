@@ -108,3 +108,7 @@ Published NLP-001–005, separate questions/solutions, revision/interview notes,
 Publication: [PR #11](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/11) merged on 2026-10-13 at commit `f219ad2b2775c800b2a47e8f8bac8d846727a25f` after the user's instruction to proceed. Status and navigation updates are finalized. The tested implementation is unchanged: eleven new tests passed, and the classifier correctly labeled 11 of 12 invented test messages. These tests were run for the release, not rerun for this documentation-only follow-up. No hosted CI checks were configured on the PR.
 
 Next session: work through the published NLP exercises or add the dedicated transformer module when requested. Keep historical repair work separate and all new learning material in this hub.
+
+## 2026-10-13 · Next five tasks: transformer module
+
+Prepared TR-001–005: embeddings/positions; multi-head attention/masks; residual/normalization/feed-forward blocks; architecture families/objectives; decoding/evaluation. Each has separate questions and worked solutions. A shared executable NumPy lab, revision sheet, primary references and validation evidence accompany the module. See [five-task map](subjects/transformers/README.md). Six new registry entries remain prepared pending substantial-change review. This is an untrained forward demonstration, not a trained transformer release. Earlier specialized architecture and legacy-repair work retains its backlog status. No extra repository or automation was created.
