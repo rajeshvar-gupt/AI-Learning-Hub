@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "publication_status": "published",
   "resources": [
     {
@@ -558,6 +558,88 @@
       "status": "published",
       "path": "projects/intermediate/digits-cnn/README.md",
       "example": "projects/intermediate/digits-cnn/train.py"
+    },
+    {
+      "id": "NLP-001",
+      "title": "Text tasks, tokenization and preprocessing",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-007"
+      ],
+      "status": "prepared",
+      "path": "subjects/nlp/01-text-preprocessing.md",
+      "assignment": "assignments/NLP-001/questions.md",
+      "solutions": "assignments/NLP-001/solutions.md"
+    },
+    {
+      "id": "NLP-002",
+      "title": "Bag-of-words, TF-IDF and embeddings",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/nlp/02-text-features.md",
+      "assignment": "assignments/NLP-002/questions.md",
+      "solutions": "assignments/NLP-002/solutions.md"
+    },
+    {
+      "id": "NLP-003",
+      "title": "A leakage-aware text classification baseline",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/nlp/03-classification.md",
+      "assignment": "assignments/NLP-003/questions.md",
+      "solutions": "assignments/NLP-003/solutions.md"
+    },
+    {
+      "id": "NLP-004",
+      "title": "Error analysis, sequence models and NLP assessment",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/nlp/04-evaluation-sequences.md",
+      "assignment": "assignments/NLP-004/questions.md",
+      "solutions": "assignments/NLP-004/solutions.md"
+    },
+    {
+      "id": "NLP-005",
+      "title": "A worked attention example and transformer bridge",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-004"
+      ],
+      "status": "prepared",
+      "path": "subjects/nlp/05-attention.md",
+      "assignment": "assignments/NLP-005/questions.md",
+      "solutions": "assignments/NLP-005/solutions.md"
+    },
+    {
+      "id": "PROJ-NLP-001",
+      "title": "Support-message text classifier",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-003"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/support-text-classifier/README.md",
+      "example": "projects/intermediate/support-text-classifier/train.py"
+    },
+    {
+      "id": "PROJ-NLP-002",
+      "title": "Scaled dot-product attention lab",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-005"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/attention-lab/README.md",
+      "example": "projects/intermediate/attention-lab/attention.py"
     }
   ],
   "architecture": "single-repository",
