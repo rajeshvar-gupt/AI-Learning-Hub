@@ -1,6 +1,6 @@
 # Scaled dot-product attention lab
 
-Status: prepared for review. Prerequisite: NLP-005.
+Status: published. Prerequisite: NLP-005.
 
 A tiny NumPy calculation shows how query-key scores turn into normalized weights and weighted values. It includes a causal mask and explicit rejection of fully masked query rows. It is not a trained transformer or a language model.
 

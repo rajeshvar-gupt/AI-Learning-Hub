@@ -1,6 +1,6 @@
 # NLP foundations
 
-Status: prepared for review. Prerequisite: the [core ML path](../../THROUGH-ML.md); [deep learning](../deep-learning/README.md) helps with the sequence-model bridge.
+Status: published. Prerequisite: the [core ML path](../../THROUGH-ML.md); [deep learning](../deep-learning/README.md) helps with the sequence-model bridge.
 
 - [NLP-001 · Text tasks, tokenization and preprocessing](01-text-preprocessing.md)
 - [NLP-002 · Bag-of-words, TF-IDF and embeddings](02-text-features.md)

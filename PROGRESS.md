@@ -103,4 +103,8 @@ Next session: study the published computer-vision exercises or add a further spe
 
 ## 2026-10-13 · NLP foundations extension
 
-Prepared NLP-001–005, separate questions/solutions, revision/interview notes, primary references, a text-classification baseline and a worked attention lab. Seven new registry entries remain prepared pending substantial-change review. See [module](subjects/nlp/README.md) and [validation](VALIDATION-NLP.md). The historical resume-system repair and unfinished specialized CV/DL work retain their separate backlog status. Full transformer training is not implemented. No new repository or active automation was created.
+Published NLP-001–005, separate questions/solutions, revision/interview notes, primary references, a text-classification baseline and a worked attention lab. All seven new registry entries are published. See [module](subjects/nlp/README.md) and [validation](VALIDATION-NLP.md). The historical resume-system repair and unfinished specialized CV/DL work retain their separate backlog status. Full transformer training is not implemented. No new repository or active automation was created.
+
+Publication: [PR #11](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/11) merged on 2026-10-13 at commit `f219ad2b2775c800b2a47e8f8bac8d846727a25f` after the user's instruction to proceed. Status and navigation updates are finalized. The tested implementation is unchanged: eleven new tests passed, and the classifier correctly labeled 11 of 12 invented test messages. These tests were run for the release, not rerun for this documentation-only follow-up. No hosted CI checks were configured on the PR.
+
+Next session: work through the published NLP exercises or add the dedicated transformer module when requested. Keep historical repair work separate and all new learning material in this hub.

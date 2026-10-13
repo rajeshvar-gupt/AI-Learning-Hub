@@ -566,7 +566,7 @@
       "prerequisites": [
         "ML-007"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/nlp/01-text-preprocessing.md",
       "assignment": "assignments/NLP-001/questions.md",
       "solutions": "assignments/NLP-001/solutions.md"
@@ -578,7 +578,7 @@
       "prerequisites": [
         "NLP-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/nlp/02-text-features.md",
       "assignment": "assignments/NLP-002/questions.md",
       "solutions": "assignments/NLP-002/solutions.md"
@@ -590,7 +590,7 @@
       "prerequisites": [
         "NLP-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/nlp/03-classification.md",
       "assignment": "assignments/NLP-003/questions.md",
       "solutions": "assignments/NLP-003/solutions.md"
@@ -602,7 +602,7 @@
       "prerequisites": [
         "NLP-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/nlp/04-evaluation-sequences.md",
       "assignment": "assignments/NLP-004/questions.md",
       "solutions": "assignments/NLP-004/solutions.md"
@@ -614,7 +614,7 @@
       "prerequisites": [
         "NLP-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/nlp/05-attention.md",
       "assignment": "assignments/NLP-005/questions.md",
       "solutions": "assignments/NLP-005/solutions.md"
@@ -626,7 +626,7 @@
       "prerequisites": [
         "NLP-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/support-text-classifier/README.md",
       "example": "projects/intermediate/support-text-classifier/train.py"
     },
@@ -637,7 +637,7 @@
       "prerequisites": [
         "NLP-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/attention-lab/README.md",
       "example": "projects/intermediate/attention-lab/attention.py"
     }

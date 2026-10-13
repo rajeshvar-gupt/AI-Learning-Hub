@@ -1,6 +1,6 @@
 # Support-message text classification
 
-Status: prepared for review. Prerequisites: NLP-001–003.
+Status: published. Prerequisites: NLP-001–003.
 
 Route original invented messages into billing, access and course categories using a TF-IDF/logistic-regression pipeline. This is an instructional classifier, not an automated support agent or a production recommendation.
 
