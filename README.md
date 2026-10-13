@@ -42,3 +42,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 ## NLP extension
 
 [Five NLP lessons and two offline labs](subjects/nlp/README.md) are published: text processing, TF-IDF classification, evaluation and a worked attention example.
+
+## Transformer extension
+
+[The five-task transformer module](subjects/transformers/README.md) is prepared for review, with separate exercises/solutions, a NumPy forward-mechanics lab and tested decoding examples.

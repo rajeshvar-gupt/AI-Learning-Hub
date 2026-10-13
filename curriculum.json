@@ -640,6 +640,77 @@
       "status": "published",
       "path": "projects/intermediate/attention-lab/README.md",
       "example": "projects/intermediate/attention-lab/attention.py"
+    },
+    {
+      "id": "TR-001",
+      "title": "Token embeddings and positional information",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-005"
+      ],
+      "status": "prepared",
+      "path": "subjects/transformers/01-embeddings-positions.md",
+      "assignment": "assignments/TR-001/questions.md",
+      "solutions": "assignments/TR-001/solutions.md"
+    },
+    {
+      "id": "TR-002",
+      "title": "Multi-head attention and masks",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/transformers/02-multihead-masks.md",
+      "assignment": "assignments/TR-002/questions.md",
+      "solutions": "assignments/TR-002/solutions.md"
+    },
+    {
+      "id": "TR-003",
+      "title": "Residual paths, normalization and feed-forward layers",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/transformers/03-transformer-block.md",
+      "assignment": "assignments/TR-003/questions.md",
+      "solutions": "assignments/TR-003/solutions.md"
+    },
+    {
+      "id": "TR-004",
+      "title": "Encoder, decoder and encoder-decoder transformers",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/transformers/04-architecture-families.md",
+      "assignment": "assignments/TR-004/questions.md",
+      "solutions": "assignments/TR-004/solutions.md"
+    },
+    {
+      "id": "TR-005",
+      "title": "Decoding, evaluation and transformer assessment",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-004"
+      ],
+      "status": "prepared",
+      "path": "subjects/transformers/05-decoding-evaluation.md",
+      "assignment": "assignments/TR-005/questions.md",
+      "solutions": "assignments/TR-005/solutions.md"
+    },
+    {
+      "id": "PROJ-TR-001",
+      "title": "Transformer mechanics NumPy lab",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-005"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/transformer-mechanics/README.md",
+      "example": "projects/intermediate/transformer-mechanics/mechanics.py"
     }
   ],
   "architecture": "single-repository",
