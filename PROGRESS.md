@@ -100,3 +100,7 @@ Published CV-001–004 with separate exercises/solutions, revision notes, primar
 Publication: [PR #10](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/10) merged on 2026-10-11 at commit `1ac161d21339ffb72aadac0da607dc639622a8e3` after the user's instruction to proceed. Publication statuses and navigation are now finalized. The tested code is unchanged: six tests passed for this release, with 95.83% held-out digits accuracy. This documentation-only follow-up does not rerun those tests. No hosted CI checks were configured on the PR.
 
 Next session: study the published computer-vision exercises or add a further specialization when requested. Keep all learning material in this repository.
+
+## 2026-10-13 · NLP foundations extension
+
+Prepared NLP-001–005, separate questions/solutions, revision/interview notes, primary references, a text-classification baseline and a worked attention lab. Seven new registry entries remain prepared pending substantial-change review. See [module](subjects/nlp/README.md) and [validation](VALIDATION-NLP.md). The historical resume-system repair and unfinished specialized CV/DL work retain their separate backlog status. Full transformer training is not implemented. No new repository or active automation was created.

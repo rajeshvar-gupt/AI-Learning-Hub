@@ -37,3 +37,8 @@ These are new material inside this hub. They do not repair or validate the histo
 ## Computer vision project (published)
 
 [Digits CNN from scratch](intermediate/digits-cnn/README.md): learned 3×3 kernels, manual gradients and validation-selected checkpoints.
+
+## NLP labs (prepared for review)
+
+- [Support-message classifier](intermediate/support-text-classifier/README.md): original invented messages, train-only vocabulary/CV and held-out class metrics.
+- [Attention calculation](intermediate/attention-lab/README.md): scaled dot-product weights, values and causal masking; no model training.

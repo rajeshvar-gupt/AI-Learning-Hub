@@ -38,3 +38,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 ## Computer vision and CNN extension
 
 [Four lessons and a trainable NumPy CNN](subjects/computer-vision/README.md) are published, including worked exercises, numerical gradient checks and held-out evaluation.
+
+## NLP extension
+
+[Five NLP lessons and two offline labs](subjects/nlp/README.md) are prepared for review: text processing, TF-IDF classification, evaluation and a worked attention example.
