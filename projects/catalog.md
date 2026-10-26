@@ -42,3 +42,7 @@ These are new material inside this hub. They do not repair or validate the histo
 
 - [Support-message classifier](intermediate/support-text-classifier/README.md): original invented messages, train-only vocabulary/CV and held-out class metrics.
 - [Attention calculation](intermediate/attention-lab/README.md): scaled dot-product weights, values and causal masking; no model training.
+
+## Transformer mechanics (prepared for review)
+
+[NumPy transformer lab](intermediate/transformer-mechanics/README.md): positions, projected multi-head attention, a forward block and fixed-logit decoding. Untrained numerical demonstration, not a language-model benchmark.
