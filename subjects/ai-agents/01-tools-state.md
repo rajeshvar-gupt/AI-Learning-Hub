@@ -1,6 +1,6 @@
 # AGT-001 · Tool contracts, state and stopping rules
 
-Prerequisites: RAG-002. Status: prepared for review.
+Prerequisites: RAG-002. Status: published.
 
 Outcome: validate a plan before executing allowed read-only tools.
 

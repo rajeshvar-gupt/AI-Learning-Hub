@@ -1,6 +1,6 @@
 # AGIC-001 · Plan–execute–review orchestration
 
-Prerequisites: AGT-002. Status: prepared for review.
+Prerequisites: AGT-002. Status: published.
 
 Outcome: explain state transitions and distinguish a supplied workflow from autonomous agency.
 

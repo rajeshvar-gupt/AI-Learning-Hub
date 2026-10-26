@@ -13,15 +13,15 @@ All subjects belong inside AI-Learning-Hub. Linked modules exist; unlinked folde
 | Computer vision | [subjects/computer-vision/](subjects/computer-vision/README.md) | CV-001–004 and CNN project published |
 | Natural language processing | [subjects/nlp/](subjects/nlp/README.md) | NLP-001–005 and two labs published |
 | Transformers | [subjects/transformers/](subjects/transformers/README.md) | TR-001–005 and mechanics lab published |
-| Generative AI | [subjects/generative-ai/](subjects/generative-ai/README.md) | Introductory lessons and labs prepared for review |
-| LLMs | [subjects/llms/](subjects/llms/README.md) | Introductory lessons and labs prepared for review |
-| RAG and vector databases | [subjects/rag/](subjects/rag/README.md) | Introductory lessons and labs prepared for review |
-| AI assistants | [subjects/ai-assistants/](subjects/ai-assistants/README.md) | Introductory lessons and labs prepared for review |
-| AI agents | [subjects/ai-agents/](subjects/ai-agents/README.md) | Introductory lessons and labs prepared for review |
-| Agentic AI | [subjects/agentic-ai/](subjects/agentic-ai/README.md) | Introductory lessons and labs prepared for review |
-| AI automation | [subjects/ai-automation/](subjects/ai-automation/README.md) | Introductory lessons and labs prepared for review |
-| AI APIs | [subjects/ai-apis/](subjects/ai-apis/README.md) | Introductory lessons and labs prepared for review |
-| MLOps and deployment | [subjects/mlops/](subjects/mlops/README.md) | Introductory lessons and labs prepared for review |
+| Generative AI | [subjects/generative-ai/](subjects/generative-ai/README.md) | Introductory lessons and labs published |
+| LLMs | [subjects/llms/](subjects/llms/README.md) | Introductory lessons and labs published |
+| RAG and vector databases | [subjects/rag/](subjects/rag/README.md) | Introductory lessons and labs published |
+| AI assistants | [subjects/ai-assistants/](subjects/ai-assistants/README.md) | Introductory lessons and labs published |
+| AI agents | [subjects/ai-agents/](subjects/ai-agents/README.md) | Introductory lessons and labs published |
+| Agentic AI | [subjects/agentic-ai/](subjects/agentic-ai/README.md) | Introductory lessons and labs published |
+| AI automation | [subjects/ai-automation/](subjects/ai-automation/README.md) | Introductory lessons and labs published |
+| AI APIs | [subjects/ai-apis/](subjects/ai-apis/README.md) | Introductory lessons and labs published |
+| MLOps and deployment | [subjects/mlops/](subjects/mlops/README.md) | Introductory lessons and labs published |
 
 Cross-cutting collections: roadmaps/, notes/cheat-sheets/, projects/, assignments/, interview-preparation/ and resources/. Career routes live under roadmaps/careers/.
 

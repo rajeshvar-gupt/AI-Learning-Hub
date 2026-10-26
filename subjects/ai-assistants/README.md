@@ -1,6 +1,6 @@
 # AI ASSISTANTS
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [ASST-001 · Assistant boundaries and conversation state](01-conversation.md)
 - [ASST-002 · Integrated course-mentor capstone](02-course-mentor.md)

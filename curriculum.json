@@ -719,7 +719,7 @@
       "prerequisites": [
         "TR-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/generative-ai/01-model-families.md",
       "assignment": "assignments/GEN-001/questions.md",
       "solutions": "assignments/GEN-001/solutions.md"
@@ -731,7 +731,7 @@
       "prerequisites": [
         "GEN-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/generative-ai/02-generation-evaluation.md",
       "assignment": "assignments/GEN-002/questions.md",
       "solutions": "assignments/GEN-002/solutions.md"
@@ -743,7 +743,7 @@
       "prerequisites": [
         "GEN-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/llms/01-prompts.md",
       "assignment": "assignments/LLM-001/questions.md",
       "solutions": "assignments/LLM-001/solutions.md"
@@ -755,7 +755,7 @@
       "prerequisites": [
         "LLM-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/llms/02-structured-output.md",
       "assignment": "assignments/LLM-002/questions.md",
       "solutions": "assignments/LLM-002/solutions.md"
@@ -767,7 +767,7 @@
       "prerequisites": [
         "NLP-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/rag/01-ingestion-retrieval.md",
       "assignment": "assignments/RAG-001/questions.md",
       "solutions": "assignments/RAG-001/solutions.md"
@@ -780,7 +780,7 @@
         "RAG-001",
         "LLM-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/rag/02-grounding-evaluation.md",
       "assignment": "assignments/RAG-002/questions.md",
       "solutions": "assignments/RAG-002/solutions.md"
@@ -793,7 +793,7 @@
         "LLM-002",
         "RAG-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-assistants/01-conversation.md",
       "assignment": "assignments/ASST-001/questions.md",
       "solutions": "assignments/ASST-001/solutions.md"
@@ -807,7 +807,7 @@
         "AGT-002",
         "AUTO-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-assistants/02-course-mentor.md",
       "assignment": "assignments/ASST-002/questions.md",
       "solutions": "assignments/ASST-002/solutions.md"
@@ -819,7 +819,7 @@
       "prerequisites": [
         "RAG-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-agents/01-tools-state.md",
       "assignment": "assignments/AGT-001/questions.md",
       "solutions": "assignments/AGT-001/solutions.md"
@@ -831,7 +831,7 @@
       "prerequisites": [
         "AGT-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-agents/02-testing.md",
       "assignment": "assignments/AGT-002/questions.md",
       "solutions": "assignments/AGT-002/solutions.md"
@@ -843,7 +843,7 @@
       "prerequisites": [
         "AGT-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/agentic-ai/01-orchestration.md",
       "assignment": "assignments/AGIC-001/questions.md",
       "solutions": "assignments/AGIC-001/solutions.md"
@@ -855,7 +855,7 @@
       "prerequisites": [
         "AGIC-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/agentic-ai/02-approval-traces.md",
       "assignment": "assignments/AGIC-002/questions.md",
       "solutions": "assignments/AGIC-002/solutions.md"
@@ -867,7 +867,7 @@
       "prerequisites": [
         "PY-010"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-automation/01-workflows.md",
       "assignment": "assignments/AUTO-001/questions.md",
       "solutions": "assignments/AUTO-001/solutions.md"
@@ -879,7 +879,7 @@
       "prerequisites": [
         "AUTO-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-automation/02-dry-run.md",
       "assignment": "assignments/AUTO-002/questions.md",
       "solutions": "assignments/AUTO-002/solutions.md"
@@ -891,7 +891,7 @@
       "prerequisites": [
         "ML-007"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-apis/01-contract.md",
       "assignment": "assignments/API-001/questions.md",
       "solutions": "assignments/API-001/solutions.md"
@@ -903,7 +903,7 @@
       "prerequisites": [
         "API-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/ai-apis/02-http-tests.md",
       "assignment": "assignments/API-002/questions.md",
       "solutions": "assignments/API-002/solutions.md"
@@ -915,7 +915,7 @@
       "prerequisites": [
         "API-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/mlops/01-release.md",
       "assignment": "assignments/OPS-001/questions.md",
       "solutions": "assignments/OPS-001/solutions.md"
@@ -927,7 +927,7 @@
       "prerequisites": [
         "OPS-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/mlops/02-operations.md",
       "assignment": "assignments/OPS-002/questions.md",
       "solutions": "assignments/OPS-002/solutions.md"
@@ -939,7 +939,7 @@
       "prerequisites": [
         "LLM-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/gemini-assistant/README.md",
       "example": "ai_hub/llm.py"
     },
@@ -950,7 +950,7 @@
       "prerequisites": [
         "RAG-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/rag-mentor/README.md",
       "example": "ai_hub/rag.py"
     },
@@ -961,7 +961,7 @@
       "prerequisites": [
         "AGT-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/bounded-agent/README.md",
       "example": "ai_hub/agent.py"
     },
@@ -972,7 +972,7 @@
       "prerequisites": [
         "AUTO-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/workflow-queue/README.md",
       "example": "ai_hub/automation.py"
     },
@@ -983,7 +983,7 @@
       "prerequisites": [
         "OPS-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/iris-api/README.md",
       "example": "ai_hub/iris_api.py"
     },
@@ -994,7 +994,7 @@
       "prerequisites": [
         "CV-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/repair-labs/README.md",
       "example": "ai_hub/repairs.py"
     },
@@ -1005,7 +1005,7 @@
       "prerequisites": [
         "CV-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/feature-transfer/README.md",
       "example": "ai_hub/transfer.py"
     },
@@ -1016,7 +1016,7 @@
       "prerequisites": [
         "ASST-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/course-mentor-capstone/README.md",
       "example": "ai_hub/demo.py"
     }

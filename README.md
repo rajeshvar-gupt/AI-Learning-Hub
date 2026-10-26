@@ -29,7 +29,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 
 ## Path through core machine learning
 
-[Open the complete Python-to-ML path](THROUGH-ML.md): 16 new lessons with exercises and solutions, five offline labs, revision/interview notes and validation evidence. This combined release is published; deep learning and later specializations remain planned.
+[Open the complete Python-to-ML path](THROUGH-ML.md): 16 new lessons with exercises and solutions, five offline labs, revision/interview notes and validation evidence. This combined release is published; the later introductory modules are now available through FINAL-PATH.md.
 
 ## Deep learning extension
 
@@ -49,4 +49,4 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 
 ## Remaining introductory engineering path
 
-[Open FINAL-PATH.md](FINAL-PATH.md) for the GenAI/LLM, RAG, assistant/agent, automation, API and MLOps modules, local labs and capstones prepared in this release. Read the [release report](RELEASE-REPORT.md) for exact validation and remaining external checks. [90-task evidence ledger](ROADMAP-STATUS.md).
+[Open FINAL-PATH.md](FINAL-PATH.md) for the GenAI/LLM, RAG, assistant/agent, automation, API and MLOps modules, local labs and capstones published in this release. Read the [release report](RELEASE-REPORT.md) for exact validation and remaining external checks. [90-task evidence ledger](ROADMAP-STATUS.md).

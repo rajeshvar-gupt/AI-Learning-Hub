@@ -1,6 +1,6 @@
 # AI AUTOMATION
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [AUTO-001 · Webhooks, schedules and idempotency](01-workflows.md)
 - [AUTO-002 · Timezone-aware scheduling and monitoring](02-dry-run.md)

@@ -1,6 +1,6 @@
 # RAG-002 · Citations, abstention and RAG evaluation
 
-Prerequisites: RAG-001, LLM-002. Status: prepared for review.
+Prerequisites: RAG-001, LLM-002. Status: published.
 
 Outcome: distinguish retrieval success from answer support and measure each honestly.
 

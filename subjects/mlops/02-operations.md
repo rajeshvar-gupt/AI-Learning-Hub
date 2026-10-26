@@ -1,6 +1,6 @@
 # OPS-002 · Monitoring, drift and rollback assessment
 
-Prerequisites: OPS-001. Status: prepared for review.
+Prerequisites: OPS-001. Status: published.
 
 Outcome: separate service health from model quality and prepare a bounded rollback.
 

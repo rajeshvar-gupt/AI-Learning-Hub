@@ -1,6 +1,6 @@
 # Weather, PDF and image repair labs
 
-Status: prepared for review. Prerequisite: CV-004.
+Status: published. Prerequisite: CV-004.
 
 Current weather is labeled an observation, never a learned forecast. Weather transport is mocked in tests. PDF extraction checks all pages and rejects empty text; no OCR. Images are original synthetic fixtures.
 

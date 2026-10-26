@@ -1,6 +1,6 @@
 # AI AGENTS
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [AGT-001 · Tool contracts, state and stopping rules](01-tools-state.md)
 - [AGT-002 · Agent evaluation and failure cases](02-testing.md)

@@ -1,6 +1,6 @@
 # Complete introductory AI engineering path
 
-The published Python→ML→DL→CV→NLP material and merged transformer release are extended here through GenAI, retrieval, assistants, agents, automation and MLOps. New content is prepared for review. This is a coherent introductory first release, not exhaustive expertise in every specialty. Personal learning completion still requires doing the exercises.
+The published Python→ML→DL→CV→NLP material and merged transformer release are extended here through GenAI, retrieval, assistants, agents, automation and MLOps. New content is published. This is a coherent introductory first release, not exhaustive expertise in every specialty. Personal learning completion still requires doing the exercises.
 
 ## Learning sequence
 

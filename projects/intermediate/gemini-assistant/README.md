@@ -1,6 +1,6 @@
 # Mockable Gemini assistant
 
-Status: prepared for review. Prerequisite: LLM-002.
+Status: published. Prerequisite: LLM-002.
 
 Mock output and structured validation; optional --live uses environment-based credentials and model choice. No live provider call was performed.
 

@@ -1,6 +1,6 @@
 # AGIC-002 · Human approval and auditable traces
 
-Prerequisites: AGIC-001. Status: prepared for review.
+Prerequisites: AGIC-001. Status: published.
 
 Outcome: locate approval boundaries and avoid confusing a draft with delivery.
 

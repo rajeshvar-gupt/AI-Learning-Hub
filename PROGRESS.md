@@ -111,16 +111,22 @@ Next session: work through the published NLP exercises or add the dedicated tran
 
 ## 2026-10-13 · Next five tasks: transformer module
 
-Prepared TR-001–005: embeddings/positions; multi-head attention/masks; residual/normalization/feed-forward blocks; architecture families/objectives; decoding/evaluation. Each has separate questions and worked solutions. A shared executable NumPy lab, revision sheet, primary references and validation evidence accompany the module. See [five-task map](subjects/transformers/README.md). Six new registry entries remain prepared pending substantial-change review. This is an untrained forward demonstration, not a trained transformer release. Earlier specialized architecture and legacy-repair work retains its backlog status. No extra repository or automation was created.
+Published TR-001–005: embeddings/positions; multi-head attention/masks; residual/normalization/feed-forward blocks; architecture families/objectives; decoding/evaluation. Each has separate questions and worked solutions. A shared executable NumPy lab, revision sheet, primary references and validation evidence accompany the module. See [five-task map](subjects/transformers/README.md). All six transformer registry entries are published. This is an untrained forward demonstration, not a trained transformer release. Earlier specialized architecture and legacy-repair work retains its backlog status. No extra repository or automation was created.
 
 ## 2026-10-27 · Transformer publication finalized
 
-PR #12 merged at commit `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba` following the user's completion request. All six transformer resources are published. The new engineering-extension batch is tracked separately and is not yet published.
+PR #12 merged at commit `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba` following the user's completion request. All six transformer resources are published. The engineering-extension batch is published through PR #13, recorded below.
 
 ## 2026-10-27 · Remaining curriculum and repair release
 
 User requested all remaining work. Transformer [PR #12](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/12) merged at `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba`; its six resources are now recorded published in this update.
 
-Prepared 18 additional lessons with separate questions/solutions across the nine remaining subjects, eight project guides, a common offline package, repaired multipage PDF/weather/image examples, a small feature-transfer experiment, checkpoint save/reload, notebook wrappers, roles/interviews, API/CI/container configuration and an integrated course-mentor capstone. New resources remain prepared until substantial-change review/merge. See [FINAL-PATH.md](FINAL-PATH.md), [validation](VALIDATION-REMAINING.md), [task evidence](ROADMAP-STATUS.md) and [external checks](RELEASE-REPORT.md).
+Published 18 additional lessons with separate questions/solutions across the nine remaining subjects, eight project guides, a common offline package, repaired multipage PDF/weather/image examples, a small feature-transfer experiment, checkpoint save/reload, notebook wrappers, roles/interviews, API/CI/container configuration and an integrated course-mentor capstone. All 26 new resources are published after the user's instruction to proceed. See [FINAL-PATH.md](FINAL-PATH.md), [validation](VALIDATION-REMAINING.md), [task evidence](ROADMAP-STATUS.md) and [external checks](RELEASE-REPORT.md).
 
 The original roadmap dates remain unchanged. Implementation is not learner mastery. No hosted scheduler, external message, public service, paid infrastructure or live provider request was started. Old external repositories remain intact. Next step: review the combined release, inspect hosted CI if available, then validate explicitly outstanding external/container checks with appropriate access.
+
+## 2026-10-27 · PR #13 publication finalized
+
+[PR #13](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/13) merged at commit `200995685bf98360117f8a76eb4226cc657aca1a` after both hosted CI checks passed. All 85 registry entries are now published. The release includes 18 new lessons and eight new project guides. Validation evidence remains 111 passing tests plus the ecosystem link/registry check; no application code changed in this status-only update.
+
+Remaining work is limited to explicitly tracked external/quality checks in RELEASE-REPORT.md: owner weather-key rotation, live-service validation, Docker build, independent RAG evaluation, legacy face inference and any future public deployment. Do not mark those done without their own evidence. The daily automation remains inactive.

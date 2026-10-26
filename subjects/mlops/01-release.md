@@ -1,6 +1,6 @@
 # OPS-001 · CI, containers and reproducible releases
 
-Prerequisites: API-002. Status: prepared for review.
+Prerequisites: API-002. Status: published.
 
 Outcome: package repeatable checks and distinguish local evidence from hosted CI.
 

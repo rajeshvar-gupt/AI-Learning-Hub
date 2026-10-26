@@ -1,6 +1,6 @@
 # API-001 · Inference API contracts and model artifacts
 
-Prerequisites: ML-007. Status: prepared for review.
+Prerequisites: ML-007. Status: published.
 
 Outcome: serve a consistent prediction contract with explicit validation.
 

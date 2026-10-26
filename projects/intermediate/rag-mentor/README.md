@@ -1,6 +1,6 @@
 # Retrieval and grounded-answer baseline
 
-Status: prepared for review. Prerequisite: RAG-002.
+Status: published. Prerequisite: RAG-002.
 
 Four original invented documents, stable fixed-fixture chunk IDs, TF-IDF/keyword comparison, real citations and unsupported-query abstention. Extractive mode is default; a generation hook validates IDs but cannot prove entailment.
 

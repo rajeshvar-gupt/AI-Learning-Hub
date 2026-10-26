@@ -1,6 +1,6 @@
 # RAG
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [RAG-001 · Chunking, retrieval and index lifecycle](01-ingestion-retrieval.md)
 - [RAG-002 · Citations, abstention and RAG evaluation](02-grounding-evaluation.md)

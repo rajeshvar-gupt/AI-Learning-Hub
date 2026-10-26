@@ -1,6 +1,6 @@
 # AUTO-001 · Webhooks, schedules and idempotency
 
-Prerequisites: PY-010. Status: prepared for review.
+Prerequisites: PY-010. Status: published.
 
 Outcome: reason about repeated events and choose an idempotency key.
 

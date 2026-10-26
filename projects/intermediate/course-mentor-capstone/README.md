@@ -1,6 +1,6 @@
 # Integrated course-mentor capstone
 
-Status: prepared for review. Prerequisite: ASST-002.
+Status: published. Prerequisite: ASST-002.
 
 Cited extractive answer, bounded workflow, approval-awaiting draft and idempotent reminder simulation. No external message, live model or autonomous planning is involved.
 

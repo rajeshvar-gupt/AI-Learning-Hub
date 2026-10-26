@@ -1,6 +1,6 @@
 # LLMS
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [LLM-001 · Prompts, context and model selection](01-prompts.md)
 - [LLM-002 · Structured outputs and bounded provider handling](02-structured-output.md)

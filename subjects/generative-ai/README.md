@@ -1,6 +1,6 @@
 # GENERATIVE AI
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [GEN-001 · Generative model families and objectives](01-model-families.md)
 - [GEN-002 · Generation, hallucinations and evaluation](02-generation-evaluation.md)

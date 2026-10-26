@@ -1,6 +1,6 @@
 # Frozen convolution feature transfer
 
-Status: prepared for review. Prerequisite: CV-003.
+Status: published. Prerequisite: CV-003.
 
 Train source kernels only on digits 0–4, freeze them and fit a new head on digits 5–9. Compare raw pixels on the same target split. This is same-domain label transfer, not a pretrained ImageNet benchmark.
 

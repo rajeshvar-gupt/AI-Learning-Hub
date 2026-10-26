@@ -1,6 +1,6 @@
 # AGT-002 · Agent evaluation and failure cases
 
-Prerequisites: AGT-001. Status: prepared for review.
+Prerequisites: AGT-001. Status: published.
 
 Outcome: test task completion, tool correctness and scope boundaries independently.
 

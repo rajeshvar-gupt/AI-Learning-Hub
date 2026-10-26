@@ -1,6 +1,6 @@
 # LLM-001 · Prompts, context and model selection
 
-Prerequisites: GEN-001. Status: prepared for review.
+Prerequisites: GEN-001. Status: published.
 
 Outcome: write a testable request and document model choice without invented limits or prices.
 

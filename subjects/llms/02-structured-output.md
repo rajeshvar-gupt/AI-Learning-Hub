@@ -1,6 +1,6 @@
 # LLM-002 · Structured outputs and bounded provider handling
 
-Prerequisites: LLM-001. Status: prepared for review.
+Prerequisites: LLM-001. Status: published.
 
 Outcome: validate provider output and handle transient failures without infinite loops.
 

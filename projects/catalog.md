@@ -47,7 +47,7 @@ These are new material inside this hub. They do not repair or validate the histo
 
 [NumPy transformer lab](intermediate/transformer-mechanics/README.md): positions, projected multi-head attention, a forward block and fixed-logit decoding. Untrained numerical demonstration, not a language-model benchmark.
 
-## Final engineering labs (prepared for review)
+## Final engineering labs (published)
 
 - [Mockable Gemini assistant](intermediate/gemini-assistant/README.md)
 - [Retrieval and grounded-answer baseline](intermediate/rag-mentor/README.md)

@@ -1,6 +1,6 @@
 # Introductory hub release report · 27 October 2026
 
-The remaining local instructional path is implemented on this review branch: 18 new lessons, separate assignments/solutions, eight project guides, capstones and repair labs. Transformer PR #12 was merged before this batch. New material is prepared pending review/merge; do not count this branch as already published. [Task-by-task evidence](ROADMAP-STATUS.md) preserves all 90 IDs.
+The remaining local instructional path is published on main: 18 new lessons, separate assignments/solutions, eight project guides, capstones and repair labs. Transformer PR #12 was merged before this batch. New material was published through [PR #13](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/13), merged at commit `200995685bf98360117f8a76eb4226cc657aca1a`. [Task-by-task evidence](ROADMAP-STATUS.md) preserves all 90 IDs.
 
 ## What runs locally
 
@@ -18,7 +18,6 @@ The runner is deterministic orchestration, not an autonomous LLM planner. RAG de
 | Independent RAG evaluation (D070) | Only tiny controlled diagnostics are included | Freeze settings; label representative untouched questions and score retrieval/support/abstention |
 | Legacy face runtime | Only public README and requirements were inspected | Choose a permitted model/data fixture, isolate/update dependencies and validate inference separately |
 | Public deployment/production operation | No service/paid resources were created | Decide an appropriate serving/security/cost plan before deploying; no live URL is claimed |
-| New release publication (D090) | Substantial additions need review under CONTRIBUTING.md | Review this concrete PR and successful CI evidence, resolve findings and merge |
 
 ## Face-project audit
 

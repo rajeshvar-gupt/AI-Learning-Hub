@@ -1,6 +1,6 @@
 # RAG-001 · Chunking, retrieval and index lifecycle
 
-Prerequisites: NLP-003. Status: prepared for review.
+Prerequisites: NLP-003. Status: published.
 
 Outcome: build and inspect a reproducible document-to-chunk index.
 

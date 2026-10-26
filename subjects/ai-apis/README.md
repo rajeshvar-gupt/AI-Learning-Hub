@@ -1,6 +1,6 @@
 # AI APIS
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [API-001 · Inference API contracts and model artifacts](01-contract.md)
 - [API-002 · HTTP failure cases and local smoke testing](02-http-tests.md)

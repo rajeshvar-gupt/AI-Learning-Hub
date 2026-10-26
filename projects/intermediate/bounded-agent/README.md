@@ -1,6 +1,6 @@
 # Plan–execute–review tool runner
 
-Status: prepared for review. Prerequisite: AGT-002.
+Status: published. Prerequisite: AGT-002.
 
 Supplied plans, read-only retrieval tools, explicit step limits and failed-tool stopping. This is deterministic orchestration, not an autonomous LLM planner. Message proposals never send.
 

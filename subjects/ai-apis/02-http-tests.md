@@ -1,6 +1,6 @@
 # API-002 · HTTP failure cases and local smoke testing
 
-Prerequisites: API-001. Status: prepared for review.
+Prerequisites: API-001. Status: published.
 
 Outcome: test actual HTTP behavior as well as pure prediction functions.
 

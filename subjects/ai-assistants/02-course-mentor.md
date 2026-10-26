@@ -1,6 +1,6 @@
 # ASST-002 · Integrated course-mentor capstone
 
-Prerequisites: ASST-001, AGT-002, AUTO-002. Status: prepared for review.
+Prerequisites: ASST-001, AGT-002, AUTO-002. Status: published.
 
 Outcome: run a bounded end-to-end scenario with observable state and no external side effect.
 

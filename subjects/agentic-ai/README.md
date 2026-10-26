@@ -1,6 +1,6 @@
 # AGENTIC AI
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [AGIC-001 · Plan–execute–review orchestration](01-orchestration.md)
 - [AGIC-002 · Human approval and auditable traces](02-approval-traces.md)

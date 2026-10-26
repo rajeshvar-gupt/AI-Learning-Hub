@@ -1,6 +1,6 @@
 # GEN-001 · Generative model families and objectives
 
-Prerequisites: TR-005. Status: prepared for review.
+Prerequisites: TR-005. Status: published.
 
 Outcome: distinguish what each model learns and choose a task-appropriate baseline.
 

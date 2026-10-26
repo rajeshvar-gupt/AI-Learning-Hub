@@ -1,6 +1,6 @@
 # MLOPS
 
-Status: prepared for review. This introductory module is part of the [complete path](../../FINAL-PATH.md).
+Status: published. This introductory module is part of the [complete path](../../FINAL-PATH.md).
 
 - [OPS-001 · CI, containers and reproducible releases](01-release.md)
 - [OPS-002 · Monitoring, drift and rollback assessment](02-operations.md)

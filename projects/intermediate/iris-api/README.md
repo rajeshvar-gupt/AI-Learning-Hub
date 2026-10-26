@@ -1,6 +1,6 @@
 # Iris training and local HTTP API
 
-Status: prepared for review. Prerequisite: OPS-002.
+Status: published. Prerequisite: OPS-002.
 
 Training-only scaling, saved JSON numeric parameters, reload equivalence and strict input handling. See the deployment guide for localhost serving, container commands and rollback. No public service exists.
 

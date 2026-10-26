@@ -1,6 +1,6 @@
 # GEN-002 · Generation, hallucinations and evaluation
 
-Prerequisites: GEN-001. Status: prepared for review.
+Prerequisites: GEN-001. Status: published.
 
 Outcome: separate output likelihood, factual support and task success.
 

@@ -1,6 +1,6 @@
 # Idempotent dry-run workflow queue
 
-Status: prepared for review. Prerequisite: AUTO-002.
+Status: published. Prerequisite: AUTO-002.
 
 SQLite stable-key insertion and timezone-aware due times. Repeated runs in one persisted queue do not repeat simulated jobs. No hosted scheduler or notification delivery is activated.
 

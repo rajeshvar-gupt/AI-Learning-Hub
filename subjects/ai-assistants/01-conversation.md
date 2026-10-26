@@ -1,6 +1,6 @@
 # ASST-001 · Assistant boundaries and conversation state
 
-Prerequisites: LLM-002, RAG-002. Status: prepared for review.
+Prerequisites: LLM-002, RAG-002. Status: published.
 
 Outcome: define what a course assistant can answer and what should remain with a person.
 

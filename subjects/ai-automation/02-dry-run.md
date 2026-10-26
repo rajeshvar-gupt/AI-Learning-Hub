@@ -1,6 +1,6 @@
 # AUTO-002 · Timezone-aware scheduling and monitoring
 
-Prerequisites: AUTO-001. Status: prepared for review.
+Prerequisites: AUTO-001. Status: published.
 
 Outcome: simulate due jobs safely and explain monitoring/rollback behavior.
 
