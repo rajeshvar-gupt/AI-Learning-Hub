@@ -1,0 +1,200 @@
+{
+  "outputs/assistant.json": {
+    "mode": "mock",
+    "result": {
+      "answer": "Mock explanation: use a training split before fitting preprocessing.",
+      "citations": []
+    }
+  },
+  "outputs/rag.json": {
+    "fixture_questions": [
+      {
+        "question": "How should preprocessing use training data?",
+        "expected": "ml",
+        "ids": [
+          "ml:0",
+          "dl:0"
+        ],
+        "hit": true
+      },
+      {
+        "question": "Which checkpoint does validation select?",
+        "expected": "dl",
+        "ids": [
+          "dl:0"
+        ],
+        "hit": true
+      },
+      {
+        "question": "Where can I practice loops?",
+        "expected": "python",
+        "ids": [
+          "python:0"
+        ],
+        "hit": true
+      },
+      {
+        "question": "How can I contact the helpdesk?",
+        "expected": "support",
+        "ids": [
+          "support:0",
+          "dl:0"
+        ],
+        "hit": true
+      }
+    ],
+    "recall_at_2": 1,
+    "keyword_overlap_recall_at_2": 1,
+    "unsupported": {
+      "answer": "No supporting passage found.",
+      "citations": [],
+      "mode": "abstained"
+    }
+  },
+  "outputs/agent.json": {
+    "steps": 2,
+    "trace": [
+      {
+        "tool": "search",
+        "state": "reviewed",
+        "result": [
+          {
+            "id": "dl:0",
+            "document": "dl",
+            "text": "Deep learning training uses backpropagation. Validation loss selects the checkpoint.",
+            "score": 0.4917051875665104
+          }
+        ]
+      },
+      {
+        "tool": "answer",
+        "state": "reviewed",
+        "result": {
+          "answer": "Deep learning training uses backpropagation. Validation loss selects the checkpoint.",
+          "citations": [
+            "dl:0"
+          ],
+          "mode": "extractive"
+        }
+      }
+    ],
+    "completed": true
+  },
+  "outputs/automation.json": {
+    "first": [
+      {
+        "id": "lesson-1",
+        "payload_sha256": "df1dd8fce7379f936bf103765fbb58ec1fc67dfa08cad82876fad426db0f22d0",
+        "sent": false
+      }
+    ],
+    "repeat": []
+  },
+  "outputs/capstone.json": {
+    "answer": {
+      "answer": "Python practice uses functions and loops. Assignments include a student score summary.",
+      "citations": [
+        "python:0"
+      ],
+      "mode": "extractive"
+    },
+    "workflow": {
+      "steps": 2,
+      "trace": [
+        {
+          "tool": "answer",
+          "state": "reviewed",
+          "result": {
+            "answer": "Python practice uses functions and loops. Assignments include a student score summary.",
+            "citations": [
+              "python:0"
+            ],
+            "mode": "extractive"
+          }
+        },
+        {
+          "tool": "propose_message",
+          "state": "reviewed",
+          "result": {
+            "status": "awaiting_human_approval",
+            "draft": "Draft: review the Python exercise.",
+            "sent": false
+          }
+        }
+      ],
+      "completed": true
+    },
+    "simulation": [
+      {
+        "id": "mentor-1",
+        "payload_sha256": "0ad304fca5056a2caf16027ec31912fd2f0453425d950833fa84603e8d2a0c21",
+        "sent": false
+      }
+    ]
+  },
+  "outputs/iris/model.json": {
+    "schema_version": 1,
+    "mean": [
+      5.877678571428573,
+      3.066071428571429,
+      3.764285714285715,
+      1.19375
+    ],
+    "scale": [
+      0.849444127212086,
+      0.44169995703057996,
+      1.7757723240716345,
+      0.7668676140638616
+    ],
+    "coef": [
+      [
+        -1.0494160041540619,
+        1.153489500280326,
+        -1.628644634132709,
+        -1.567815882168704
+      ],
+      [
+        0.49537647110989896,
+        -0.5307595896437224,
+        -0.2638811072305822,
+        -0.808386808952577
+      ],
+      [
+        0.5540395330441629,
+        -0.6227299106366031,
+        1.8925257413632908,
+        2.376202691121281
+      ]
+    ],
+    "intercept": [
+      -0.1489574136834012,
+      1.7705540783313074,
+      -1.6215966646479076
+    ],
+    "classes": [
+      "setosa",
+      "versicolor",
+      "virginica"
+    ],
+    "feature_order": [
+      "sepal length (cm)",
+      "sepal width (cm)",
+      "petal length (cm)",
+      "petal width (cm)"
+    ],
+    "metrics": {
+      "test_rows": 38,
+      "accuracy": 0.9210526315789473,
+      "macro_f1": 0.9229629629629629,
+      "baseline_accuracy": 0.3157894736842105
+    }
+  },
+  "outputs/transfer.json": {
+    "source_train_rows": 540,
+    "target_train_rows": 537,
+    "target_test_rows": 180,
+    "frozen_feature_accuracy": 0.9833333333333333,
+    "raw_pixel_accuracy": 0.9833333333333333,
+    "scope": "same-domain digit-label transfer; not a pretrained large-model benchmark"
+  }
+}

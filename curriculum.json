@@ -711,6 +711,314 @@
       "status": "published",
       "path": "projects/intermediate/transformer-mechanics/README.md",
       "example": "projects/intermediate/transformer-mechanics/mechanics.py"
+    },
+    {
+      "id": "GEN-001",
+      "title": "Generative model families and objectives",
+      "level": "intermediate",
+      "prerequisites": [
+        "TR-005"
+      ],
+      "status": "prepared",
+      "path": "subjects/generative-ai/01-model-families.md",
+      "assignment": "assignments/GEN-001/questions.md",
+      "solutions": "assignments/GEN-001/solutions.md"
+    },
+    {
+      "id": "GEN-002",
+      "title": "Generation, hallucinations and evaluation",
+      "level": "intermediate",
+      "prerequisites": [
+        "GEN-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/generative-ai/02-generation-evaluation.md",
+      "assignment": "assignments/GEN-002/questions.md",
+      "solutions": "assignments/GEN-002/solutions.md"
+    },
+    {
+      "id": "LLM-001",
+      "title": "Prompts, context and model selection",
+      "level": "intermediate",
+      "prerequisites": [
+        "GEN-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/llms/01-prompts.md",
+      "assignment": "assignments/LLM-001/questions.md",
+      "solutions": "assignments/LLM-001/solutions.md"
+    },
+    {
+      "id": "LLM-002",
+      "title": "Structured outputs and bounded provider handling",
+      "level": "intermediate",
+      "prerequisites": [
+        "LLM-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/llms/02-structured-output.md",
+      "assignment": "assignments/LLM-002/questions.md",
+      "solutions": "assignments/LLM-002/solutions.md"
+    },
+    {
+      "id": "RAG-001",
+      "title": "Chunking, retrieval and index lifecycle",
+      "level": "intermediate",
+      "prerequisites": [
+        "NLP-003"
+      ],
+      "status": "prepared",
+      "path": "subjects/rag/01-ingestion-retrieval.md",
+      "assignment": "assignments/RAG-001/questions.md",
+      "solutions": "assignments/RAG-001/solutions.md"
+    },
+    {
+      "id": "RAG-002",
+      "title": "Citations, abstention and RAG evaluation",
+      "level": "intermediate",
+      "prerequisites": [
+        "RAG-001",
+        "LLM-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/rag/02-grounding-evaluation.md",
+      "assignment": "assignments/RAG-002/questions.md",
+      "solutions": "assignments/RAG-002/solutions.md"
+    },
+    {
+      "id": "ASST-001",
+      "title": "Assistant boundaries and conversation state",
+      "level": "intermediate",
+      "prerequisites": [
+        "LLM-002",
+        "RAG-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-assistants/01-conversation.md",
+      "assignment": "assignments/ASST-001/questions.md",
+      "solutions": "assignments/ASST-001/solutions.md"
+    },
+    {
+      "id": "ASST-002",
+      "title": "Integrated course-mentor capstone",
+      "level": "intermediate",
+      "prerequisites": [
+        "ASST-001",
+        "AGT-002",
+        "AUTO-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-assistants/02-course-mentor.md",
+      "assignment": "assignments/ASST-002/questions.md",
+      "solutions": "assignments/ASST-002/solutions.md"
+    },
+    {
+      "id": "AGT-001",
+      "title": "Tool contracts, state and stopping rules",
+      "level": "intermediate",
+      "prerequisites": [
+        "RAG-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-agents/01-tools-state.md",
+      "assignment": "assignments/AGT-001/questions.md",
+      "solutions": "assignments/AGT-001/solutions.md"
+    },
+    {
+      "id": "AGT-002",
+      "title": "Agent evaluation and failure cases",
+      "level": "intermediate",
+      "prerequisites": [
+        "AGT-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-agents/02-testing.md",
+      "assignment": "assignments/AGT-002/questions.md",
+      "solutions": "assignments/AGT-002/solutions.md"
+    },
+    {
+      "id": "AGIC-001",
+      "title": "Plan–execute–review orchestration",
+      "level": "intermediate",
+      "prerequisites": [
+        "AGT-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/agentic-ai/01-orchestration.md",
+      "assignment": "assignments/AGIC-001/questions.md",
+      "solutions": "assignments/AGIC-001/solutions.md"
+    },
+    {
+      "id": "AGIC-002",
+      "title": "Human approval and auditable traces",
+      "level": "intermediate",
+      "prerequisites": [
+        "AGIC-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/agentic-ai/02-approval-traces.md",
+      "assignment": "assignments/AGIC-002/questions.md",
+      "solutions": "assignments/AGIC-002/solutions.md"
+    },
+    {
+      "id": "AUTO-001",
+      "title": "Webhooks, schedules and idempotency",
+      "level": "intermediate",
+      "prerequisites": [
+        "PY-010"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-automation/01-workflows.md",
+      "assignment": "assignments/AUTO-001/questions.md",
+      "solutions": "assignments/AUTO-001/solutions.md"
+    },
+    {
+      "id": "AUTO-002",
+      "title": "Timezone-aware scheduling and monitoring",
+      "level": "intermediate",
+      "prerequisites": [
+        "AUTO-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-automation/02-dry-run.md",
+      "assignment": "assignments/AUTO-002/questions.md",
+      "solutions": "assignments/AUTO-002/solutions.md"
+    },
+    {
+      "id": "API-001",
+      "title": "Inference API contracts and model artifacts",
+      "level": "intermediate",
+      "prerequisites": [
+        "ML-007"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-apis/01-contract.md",
+      "assignment": "assignments/API-001/questions.md",
+      "solutions": "assignments/API-001/solutions.md"
+    },
+    {
+      "id": "API-002",
+      "title": "HTTP failure cases and local smoke testing",
+      "level": "intermediate",
+      "prerequisites": [
+        "API-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/ai-apis/02-http-tests.md",
+      "assignment": "assignments/API-002/questions.md",
+      "solutions": "assignments/API-002/solutions.md"
+    },
+    {
+      "id": "OPS-001",
+      "title": "CI, containers and reproducible releases",
+      "level": "intermediate",
+      "prerequisites": [
+        "API-002"
+      ],
+      "status": "prepared",
+      "path": "subjects/mlops/01-release.md",
+      "assignment": "assignments/OPS-001/questions.md",
+      "solutions": "assignments/OPS-001/solutions.md"
+    },
+    {
+      "id": "OPS-002",
+      "title": "Monitoring, drift and rollback assessment",
+      "level": "intermediate",
+      "prerequisites": [
+        "OPS-001"
+      ],
+      "status": "prepared",
+      "path": "subjects/mlops/02-operations.md",
+      "assignment": "assignments/OPS-002/questions.md",
+      "solutions": "assignments/OPS-002/solutions.md"
+    },
+    {
+      "id": "PROJ-FINAL-GEMINI-ASSISTANT",
+      "title": "Mockable Gemini assistant",
+      "level": "intermediate",
+      "prerequisites": [
+        "LLM-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/gemini-assistant/README.md",
+      "example": "ai_hub/llm.py"
+    },
+    {
+      "id": "PROJ-FINAL-RAG-MENTOR",
+      "title": "Retrieval and grounded-answer baseline",
+      "level": "intermediate",
+      "prerequisites": [
+        "RAG-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/rag-mentor/README.md",
+      "example": "ai_hub/rag.py"
+    },
+    {
+      "id": "PROJ-FINAL-BOUNDED-AGENT",
+      "title": "Plan–execute–review tool runner",
+      "level": "intermediate",
+      "prerequisites": [
+        "AGT-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/bounded-agent/README.md",
+      "example": "ai_hub/agent.py"
+    },
+    {
+      "id": "PROJ-FINAL-WORKFLOW-QUEUE",
+      "title": "Idempotent dry-run workflow queue",
+      "level": "intermediate",
+      "prerequisites": [
+        "AUTO-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/workflow-queue/README.md",
+      "example": "ai_hub/automation.py"
+    },
+    {
+      "id": "PROJ-FINAL-IRIS-API",
+      "title": "Iris training and local HTTP API",
+      "level": "intermediate",
+      "prerequisites": [
+        "OPS-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/iris-api/README.md",
+      "example": "ai_hub/iris_api.py"
+    },
+    {
+      "id": "PROJ-FINAL-REPAIR-LABS",
+      "title": "Weather, PDF and image repair labs",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-004"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/repair-labs/README.md",
+      "example": "ai_hub/repairs.py"
+    },
+    {
+      "id": "PROJ-FINAL-FEATURE-TRANSFER",
+      "title": "Frozen convolution feature transfer",
+      "level": "intermediate",
+      "prerequisites": [
+        "CV-003"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/feature-transfer/README.md",
+      "example": "ai_hub/transfer.py"
+    },
+    {
+      "id": "PROJ-FINAL-COURSE-MENTOR-CAPSTONE",
+      "title": "Integrated course-mentor capstone",
+      "level": "intermediate",
+      "prerequisites": [
+        "ASST-002"
+      ],
+      "status": "prepared",
+      "path": "projects/intermediate/course-mentor-capstone/README.md",
+      "example": "ai_hub/demo.py"
     }
   ],
   "architecture": "single-repository",

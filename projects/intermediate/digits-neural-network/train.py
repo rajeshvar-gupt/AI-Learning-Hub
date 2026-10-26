@@ -96,6 +96,13 @@ def main():
                   history=history)
     output = Path(__file__).parent / "outputs"
     output.mkdir(exist_ok=True)
+    arrays = {f"W{i}": W for i, (W, b) in enumerate(params)}
+    arrays.update({f"b{i}": b for i, (W, b) in enumerate(params)})
+    np.savez(output/"checkpoint.npz", **arrays)
+    with np.load(output/"checkpoint.npz", allow_pickle=False) as checkpoint:
+        restored = [(checkpoint[f"W{i}"].copy(), checkpoint[f"b{i}"].copy()) for i in range(len(params))]
+    np.testing.assert_allclose(forward(X[test], restored)[-1], forward(X[test], params)[-1])
+    report["checkpoint_reload_verified"] = True
     (output/"report.json").write_text(json.dumps(report, indent=2, allow_nan=False), encoding="utf-8")
     import matplotlib
     matplotlib.use("Agg")

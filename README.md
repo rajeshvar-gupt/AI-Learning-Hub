@@ -46,3 +46,7 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 ## Transformer extension
 
 [The five-task transformer module](subjects/transformers/README.md) is published, with separate exercises/solutions, a NumPy forward-mechanics lab and tested decoding examples.
+
+## Remaining introductory engineering path
+
+[Open FINAL-PATH.md](FINAL-PATH.md) for the GenAI/LLM, RAG, assistant/agent, automation, API and MLOps modules, local labs and capstones prepared in this release. Read the [release report](RELEASE-REPORT.md) for exact validation and remaining external checks. [90-task evidence ledger](ROADMAP-STATUS.md).

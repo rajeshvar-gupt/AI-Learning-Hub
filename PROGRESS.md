@@ -116,3 +116,11 @@ Prepared TR-001–005: embeddings/positions; multi-head attention/masks; residua
 ## 2026-10-27 · Transformer publication finalized
 
 PR #12 merged at commit `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba` following the user's completion request. All six transformer resources are published. The new engineering-extension batch is tracked separately and is not yet published.
+
+## 2026-10-27 · Remaining curriculum and repair release
+
+User requested all remaining work. Transformer [PR #12](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/12) merged at `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba`; its six resources are now recorded published in this update.
+
+Prepared 18 additional lessons with separate questions/solutions across the nine remaining subjects, eight project guides, a common offline package, repaired multipage PDF/weather/image examples, a small feature-transfer experiment, checkpoint save/reload, notebook wrappers, roles/interviews, API/CI/container configuration and an integrated course-mentor capstone. New resources remain prepared until substantial-change review/merge. See [FINAL-PATH.md](FINAL-PATH.md), [validation](VALIDATION-REMAINING.md), [task evidence](ROADMAP-STATUS.md) and [external checks](RELEASE-REPORT.md).
+
+The original roadmap dates remain unchanged. Implementation is not learner mastery. No hosted scheduler, external message, public service, paid infrastructure or live provider request was started. Old external repositories remain intact. Next step: review the combined release, inspect hosted CI if available, then validate explicitly outstanding external/container checks with appropriate access.

@@ -21,3 +21,16 @@ No repair is marked complete in this first batch. Maintain original attribution.
 Document problem, learning objectives, architecture, stack, dataset, installation, commands, output, code explanation, tests/evaluation, limitations, improvements, interview questions and challenges. Run from the documented directory. Keep secrets out of code. Include meaningful edge cases, not just happy-path screenshots.
 
 [Catalog](catalog.md) · [Home](README.md)
+
+
+## 2026-10-27 bounded hub replacements
+
+| Historical reference | New hub evidence | Remaining boundary |
+|---|---|---|
+| Weather | [Repair labs](intermediate/repair-labs/README.md), environment key and mocked failures | Owner key rotation and live API/account checks remain external; no forecast claim |
+| Resume | All-page PDF extraction and synthetic multipage/empty tests in the repair lab | No OCR or legacy classifier/model-data validation |
+| Book | [Published recommender](intermediate/book-recommender/README.md) | Invented content retrieval, not personalized quality |
+| Face | README/dependency audit in [release report](../RELEASE-REPORT.md) | Legacy stack/model/data runtime unverified; no faces copied |
+| Iris | [New local API](intermediate/iris-api/README.md) | Container build/public deployment unverified |
+
+These are bounded new implementations or findings, not claims that external repositories were changed.
