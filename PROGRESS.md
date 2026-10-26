@@ -112,3 +112,7 @@ Next session: work through the published NLP exercises or add the dedicated tran
 ## 2026-10-13 · Next five tasks: transformer module
 
 Prepared TR-001–005: embeddings/positions; multi-head attention/masks; residual/normalization/feed-forward blocks; architecture families/objectives; decoding/evaluation. Each has separate questions and worked solutions. A shared executable NumPy lab, revision sheet, primary references and validation evidence accompany the module. See [five-task map](subjects/transformers/README.md). Six new registry entries remain prepared pending substantial-change review. This is an untrained forward demonstration, not a trained transformer release. Earlier specialized architecture and legacy-repair work retains its backlog status. No extra repository or automation was created.
+
+## 2026-10-27 · Transformer publication finalized
+
+PR #12 merged at commit `a70f0bb062a47f3243b0e3338267bdd7dcc9c5ba` following the user's completion request. All six transformer resources are published. The new engineering-extension batch is tracked separately and is not yet published.

@@ -27,4 +27,4 @@ The script completed successfully and all ten new tests passed. Checks cover pos
 
 The [full example report](projects/intermediate/transformer-mechanics/example-report.json) preserves the numerical block output. These are values from randomly initialized, untrained parameters and supplied logits, not accuracy, language generation or evidence of task quality. There is no backward/gradient implementation to validate and no trained-model benchmark.
 
-Existing Python/ML/DL/CV/NLP source was unchanged and not retested in this extension. The five completed content tasks are TR-001 through TR-005; publication awaits review and merge. Earlier legacy repairs and specialized architecture projects remain separate work.
+Existing Python/ML/DL/CV/NLP source was unchanged and not retested in this extension. The five completed content tasks are TR-001 through TR-005; publication completed through PR #12. Earlier legacy repairs and specialized architecture projects remain separate work.

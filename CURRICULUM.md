@@ -12,7 +12,7 @@ All subjects belong inside AI-Learning-Hub. Linked modules exist; unlinked folde
 | Deep learning | [subjects/deep-learning/](subjects/deep-learning/README.md) | DL-001–005 and digits project published |
 | Computer vision | [subjects/computer-vision/](subjects/computer-vision/README.md) | CV-001–004 and CNN project published |
 | Natural language processing | [subjects/nlp/](subjects/nlp/README.md) | NLP-001–005 and two labs published |
-| Transformers | [subjects/transformers/](subjects/transformers/README.md) | TR-001–005 and mechanics lab prepared for review |
+| Transformers | [subjects/transformers/](subjects/transformers/README.md) | TR-001–005 and mechanics lab published |
 | Generative AI | `subjects/generative-ai/` | Planned |
 | LLMs | `subjects/llms/` | Planned |
 | RAG and vector databases | `subjects/rag/` | Planned |

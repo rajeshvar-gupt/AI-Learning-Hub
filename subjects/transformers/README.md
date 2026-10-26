@@ -1,6 +1,6 @@
 # Transformers · five-task module
 
-Status: prepared for review. Start after [NLP-005](../nlp/05-attention.md).
+Status: published. Start after [NLP-005](../nlp/05-attention.md).
 
 | Task | Lesson | Reviewable deliverable |
 |---|---|---|

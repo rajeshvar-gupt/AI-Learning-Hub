@@ -45,4 +45,4 @@ All new learning content will be maintained inside **AI-Learning-Hub**. Existing
 
 ## Transformer extension
 
-[The five-task transformer module](subjects/transformers/README.md) is prepared for review, with separate exercises/solutions, a NumPy forward-mechanics lab and tested decoding examples.
+[The five-task transformer module](subjects/transformers/README.md) is published, with separate exercises/solutions, a NumPy forward-mechanics lab and tested decoding examples.

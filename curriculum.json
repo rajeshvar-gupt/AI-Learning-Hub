@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "rajeshvar-gupt",
-  "updated": "2026-10-13",
+  "updated": "2026-10-27",
   "publication_status": "published",
   "resources": [
     {
@@ -648,7 +648,7 @@
       "prerequisites": [
         "NLP-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/transformers/01-embeddings-positions.md",
       "assignment": "assignments/TR-001/questions.md",
       "solutions": "assignments/TR-001/solutions.md"
@@ -660,7 +660,7 @@
       "prerequisites": [
         "TR-001"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/transformers/02-multihead-masks.md",
       "assignment": "assignments/TR-002/questions.md",
       "solutions": "assignments/TR-002/solutions.md"
@@ -672,7 +672,7 @@
       "prerequisites": [
         "TR-002"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/transformers/03-transformer-block.md",
       "assignment": "assignments/TR-003/questions.md",
       "solutions": "assignments/TR-003/solutions.md"
@@ -684,7 +684,7 @@
       "prerequisites": [
         "TR-003"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/transformers/04-architecture-families.md",
       "assignment": "assignments/TR-004/questions.md",
       "solutions": "assignments/TR-004/solutions.md"
@@ -696,7 +696,7 @@
       "prerequisites": [
         "TR-004"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "subjects/transformers/05-decoding-evaluation.md",
       "assignment": "assignments/TR-005/questions.md",
       "solutions": "assignments/TR-005/solutions.md"
@@ -708,7 +708,7 @@
       "prerequisites": [
         "TR-005"
       ],
-      "status": "prepared",
+      "status": "published",
       "path": "projects/intermediate/transformer-mechanics/README.md",
       "example": "projects/intermediate/transformer-mechanics/mechanics.py"
     }

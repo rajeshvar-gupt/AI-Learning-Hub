@@ -1,6 +1,6 @@
 # Transformer mechanics · offline NumPy lab
 
-Status: prepared for review. Prerequisites: TR-001–005.
+Status: published. Prerequisites: TR-001–005.
 
 One executable lab accompanies all five tasks. It uses supplied token IDs and random untrained embedding/projection parameters to run a two-head forward block, then decodes an unrelated fixed-logit vector. It does not produce language or claim model quality.
 
