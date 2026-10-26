@@ -18,7 +18,7 @@ The runner is deterministic orchestration, not an autonomous LLM planner. RAG de
 | Independent RAG evaluation (D070) | Only tiny controlled diagnostics are included | Freeze settings; label representative untouched questions and score retrieval/support/abstention |
 | Legacy face runtime | Only public README and requirements were inspected | Choose a permitted model/data fixture, isolate/update dependencies and validate inference separately |
 | Public deployment/production operation | No service/paid resources were created | Decide an appropriate serving/security/cost plan before deploying; no live URL is claimed |
-| New release publication (D090) | Substantial additions need review under CONTRIBUTING.md | Review this concrete PR, inspect CI evidence, resolve findings and merge |
+| New release publication (D090) | Substantial additions need review under CONTRIBUTING.md | Review this concrete PR and successful CI evidence, resolve findings and merge |
 
 ## Face-project audit
 
@@ -29,3 +29,7 @@ Old weather/resume/face code and data were not modified. New hub replacements ha
 ## Review priorities
 
 Check generated-answer faithfulness with real evidence before a live RAG claim; test deployment security beyond the localhost educational HTTP server; verify concurrent queue semantics before multiple workers; retain compatible artifact/preprocessing versions for rollback. An installation recipe, model score or health response alone is not a production-ready badge.
+
+## Hosted CI evidence
+
+[The hosted Linux/Python 3.12 run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281) installed requirements-labs.txt successfully and passed scripts/run_checks.py (111 tests, 85 registry entries and the file-link validator). This adds fresh-install evidence; Docker, live providers, cross-platform operation and public deployment remain unverified.

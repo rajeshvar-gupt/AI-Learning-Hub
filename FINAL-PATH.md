@@ -29,7 +29,7 @@ source .venv/bin/activate
 python -m pip install -r requirements-labs.txt
 ```
 
-On Windows PowerShell activate with .venv\\Scripts\\Activate.ps1. Runtime validation used Linux/Python 3.12.14 and already-installed pinned packages; a clean online install and Windows/macOS run were not performed. Notebook wrappers are optional; no Jupyter frontend validation is claimed.
+On Windows PowerShell activate with .venv\\Scripts\\Activate.ps1. Runtime validation used Linux/Python 3.12.14 and already-installed pinned packages; a fresh online dependency install subsequently passed in hosted Linux CI; Windows/macOS runs remain untested. Notebook wrappers are optional; no Jupyter frontend validation is claimed.
 
 ## Offline commands
 

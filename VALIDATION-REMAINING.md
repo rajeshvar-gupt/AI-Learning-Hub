@@ -1,6 +1,6 @@
 # Remaining-release validation · 27 October 2026
 
-Executed on Linux/Python 3.12.14 using already-installed packages: NumPy 2.3.5, pandas 2.2.3, SciPy 1.17.0, scikit-learn 1.8.0, matplotlib 3.10.8, Pillow 12.3.0, pypdf 6.10.0 and reportlab 4.4.9. Requirements files record this environment. A clean installation, Docker build, Windows/macOS runtime and live provider access were not tested.
+Executed on Linux/Python 3.12.14 using already-installed packages: NumPy 2.3.5, pandas 2.2.3, SciPy 1.17.0, scikit-learn 1.8.0, matplotlib 3.10.8, Pillow 12.3.0, pypdf 6.10.0 and reportlab 4.4.9. Requirements files record this environment. A fresh dependency installation and the complete checks subsequently passed in hosted Linux/Python 3.12 CI. Docker build, Windows/macOS runtime and live provider access remain untested.
 
 ## Combined check
 
@@ -14,7 +14,7 @@ OPENBLAS_NUM_THREADS=1 python scripts/run_checks.py
 | Existing score-summary/files suites | 19 passed |
 | Existing learner-record/HTTP-JSON suites | 14 passed |
 | Total | 111 passed |
-| Ecosystem Markdown targets | 1,049 checked; no missing file targets |
+| Ecosystem Markdown targets | All targets passed locally and in CI; exact count is emitted by the validator |
 | Registry | 85 entries; unique IDs and resolved prerequisites/paths |
 
 The 27 new checks comprise 26 application/repair tests plus one scalar autodiff test. Coverage includes transient-provider retry limits, authentication failure, missing config, malformed/blocked output, citation validation, mocked generation hook, chunking, lexical abstention, forbidden/over-budget tools, failed-tool stopping, external-text scope, approval-awaiting drafts, persistent queue replay, conflicting keys/timezones, synthetic multipage/empty PDF extraction, mocked weather errors, synthetic images, Iris reload and real localhost HTTP routes/invalid inputs/body limits.
@@ -43,4 +43,4 @@ The tiny document diagnostic is not an independent held-out RAG benchmark. Gener
 
 ## Outstanding validation
 
-Docker is absent. Container build/start/health checks remain outstanding. Live Gemini/weather calls, account-specific access/costs, owner weather-key rotation, independent representative RAG quality and legacy face inference remain unverified. CI configuration is included; a file is not a hosted workflow pass. No public endpoint or actual recurring automation was deployed. [Exact release boundaries](RELEASE-REPORT.md).
+Docker is absent. Container build/start/health checks remain outstanding. Live Gemini/weather calls, account-specific access/costs, owner weather-key rotation, independent representative RAG quality and legacy face inference remain unverified. Hosted CI installed requirements-labs.txt and passed the full checks on source commit `ceef28d8aa3f7d323e27c2a3427c4b5546a4a00f`: [observed successful run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281). This later documentation-only evidence update does not change tested application code. No public endpoint or actual recurring automation was deployed. [Exact release boundaries](RELEASE-REPORT.md).

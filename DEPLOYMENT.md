@@ -46,3 +46,5 @@ Keep the previous trusted model JSON and matching schema/preprocessing version. 
 ## CI evidence
 
 The workflow definition runs scripts/run_checks.py on Python 3.12. Local command execution is recorded in VALIDATION-REMAINING.md. A workflow file is not a hosted CI pass; inspect actual GitHub run results after pushing.
+
+Hosted CI evidence: [successful fresh-install/check run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281) on source commit `ceef28d8aa3f7d323e27c2a3427c4b5546a4a00f`. It does not validate Docker or a public deployment.
