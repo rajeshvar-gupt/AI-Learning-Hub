@@ -14,8 +14,7 @@ The runner is deterministic orchestration, not an autonomous LLM planner. RAG de
 |---|---|---|
 | Live Gemini/weather access and quality | No live request made; credentials/model/account permission and current terms belong to the operator | Configure authorized environment values, run the opt-in command and record observed outcomes/costs |
 | Weather key rotation (D004) | Account-owner security action cannot be demonstrated by a mock | Owner rotates/revokes the historically exposed credential; never paste it into this repo |
-| Docker build/start (D081) | Docker executable is absent in the validation environment | Run the documented build/start/health/predict checks on an authorized Docker host |
-| Independent RAG evaluation (D070) | Only tiny controlled diagnostics are included | Freeze settings; label representative untouched questions and score retrieval/support/abstention |
+| Course-domain answer evaluation | Independent SQuAD retrieval evaluation is now prepared; private course relevance/live answer quality remain unverified | Supply approved domain documents/questions and a scoring rubric |
 | Legacy face runtime | Only public README and requirements were inspected | Choose a permitted model/data fixture, isolate/update dependencies and validate inference separately |
 | Public deployment/production operation | No service/paid resources were created | Decide an appropriate serving/security/cost plan before deploying; no live URL is claimed |
 
@@ -31,4 +30,8 @@ Check generated-answer faithfulness with real evidence before a live RAG claim; 
 
 ## Hosted CI evidence
 
-[The hosted Linux/Python 3.12 run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281) installed requirements-labs.txt successfully and passed scripts/run_checks.py (111 tests, 85 registry entries and the file-link validator). This adds fresh-install evidence; Docker, live providers, cross-platform operation and public deployment remain unverified.
+[The hosted Linux/Python 3.12 run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281) installed requirements-labs.txt successfully and passed scripts/run_checks.py (111 tests, 85 registry entries and the file-link validator). This adds fresh-install evidence; Live providers, cross-platform operation and public deployment remain unverified. Hosted Docker validation and independent-label retrieval evidence were subsequently prepared; see the follow-up below.
+
+## Remaining-check follow-up prepared for review
+
+[Container and external-retrieval evidence](VALIDATION-CLOSURE.md): Docker build/start/health/prediction checks passed on hosted CI, and a frozen SQuAD evaluation used 80 independently labeled questions. This follow-up is not yet merged. No real credentials, owner-key rotation, private face data or public deployment were available/performed.

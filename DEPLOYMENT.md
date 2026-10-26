@@ -20,14 +20,14 @@ POST returns labels and three-class probabilities. Features are sepal length, se
 
 The standard-library server is educational localhost code. It is not a public production server: no TLS/authentication, slow-client limits or deployment access policy is implemented. A future hosted service needs an appropriate serving stack and these controls.
 
-## Container recipe — not built here
+## Container recipe — hosted validation prepared
 
 ```bash
 docker build -t ai-learning-hub:review .
 docker run --rm -p 127.0.0.1:8000:8000 ai-learning-hub:review
 ```
 
-Docker is unavailable in the validation environment. Build, start and in-container health checks remain unverified. The recipe trains a small model at build time and serves as a non-root user. Do not add secrets to the image. No Render/Neon resources or live URL were created, and no free-tier or cost guarantee is made. Local machine resource use still applies.
+Docker is unavailable locally. The follow-up's hosted Ubuntu CI built and started the image and verified localhost health/prediction/error behavior; see VALIDATION-CLOSURE.md for the exact run. This follow-up awaits review/merge. The recipe trains a small model at build time and serves as a non-root user. Do not add secrets to the image. No Render/Neon resources or live URL were created, and no free-tier or cost guarantee is made. Local machine resource use still applies.
 
 ## Optional Gemini live call — not executed
 
@@ -48,3 +48,5 @@ Keep the previous trusted model JSON and matching schema/preprocessing version. 
 The workflow definition runs scripts/run_checks.py on Python 3.12. Local command execution is recorded in VALIDATION-REMAINING.md. A workflow file is not a hosted CI pass; inspect actual GitHub run results after pushing.
 
 Hosted CI evidence: [successful fresh-install/check run](https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40418645281) on source commit `ceef28d8aa3f7d323e27c2a3427c4b5546a4a00f`. It does not validate Docker or a public deployment.
+
+Run the same bounded container check on an authorized Docker host with `python scripts/docker_smoke.py`. It creates one temporary container and stops that exact ID afterward. It does not deploy a public service.
