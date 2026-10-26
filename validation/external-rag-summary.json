@@ -1,0 +1,23 @@
+{
+  "dataset": "SQuAD 1.1 development set",
+  "upstream_commit": "eee5fdbf62f8613a7812b03419e6b29617b74fd1",
+  "git_blob": "e9a3f913ad1468ebe105b891334ca7b0bc0e2510",
+  "source_url": "https://raw.githubusercontent.com/rajpurkar/SQuAD-explorer/eee5fdbf62f8613a7812b03419e6b29617b74fd1/dataset/dev-v1.1.json",
+  "sha256": "95aa6a52d5d6a735563366753ca50492a658031da74f301ac5238b03966972c9",
+  "license": "CC BY-SA 4.0",
+  "protocol": "first 20 articles; first 2 paragraphs/article; first 2 questions/paragraph; no tuning",
+  "scope": "external English encyclopedia QA retrieval; not representative of private course support or a generated-answer benchmark",
+  "documents": 40,
+  "chunks": 323,
+  "questions": 80,
+  "document_recall_at_1": 0.875,
+  "document_recall_at_2": 0.925,
+  "document_recall_at_5": 0.9875,
+  "mrr_at_5": 0.91875,
+  "gold_span_available_at_2": 0.725,
+  "keyword_document_recall_at_2": 0.8125,
+  "execution": {
+    "source_commit": "78cec380df3400767e3b472322fae7e8f95e71c1",
+    "ci_run": "https://github.com/rajeshvar-gupt/AI-Learning-Hub/actions/runs/40422756171"
+  }
+}

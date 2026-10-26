@@ -73,7 +73,7 @@ Original task IDs/dates in [ROADMAP.md](ROADMAP.md) are preserved. The original 
 | D067 | Published; local extraction/citation baseline validated | [Evidence](subjects/rag/README.md) |
 | D068 | Published; local extraction/citation baseline validated | [Evidence](subjects/rag/README.md) |
 | D069 | Published; local extraction/citation baseline validated | [Evidence](subjects/rag/README.md) |
-| D070 | Partial: controlled fixture diagnostics run; independent representative RAG benchmark pending | [Evidence](VALIDATION-REMAINING.md) |
+| D070 | Follow-up prepared: external SQuAD labels evaluated; private course/live answer quality still unverified | [Evidence](VALIDATION-CLOSURE.md) |
 | D071 | Published; supplied-plan orchestration, no autonomous LLM planner | [Evidence](subjects/ai-agents/README.md) |
 | D072 | Published; supplied-plan orchestration, no autonomous LLM planner | [Evidence](subjects/ai-agents/README.md) |
 | D073 | Published; supplied-plan orchestration, no autonomous LLM planner | [Evidence](subjects/ai-agents/README.md) |
@@ -84,7 +84,7 @@ Original task IDs/dates in [ROADMAP.md](ROADMAP.md) are preserved. The original 
 | D078 | Published; local queue/API validated | [Evidence](subjects/mlops/README.md) |
 | D079 | Published; local queue/API validated | [Evidence](subjects/mlops/README.md) |
 | D080 | Published; local queue/API validated | [Evidence](subjects/mlops/README.md) |
-| D081 | Partial: local HTTP/CI recipe ready; Docker build unavailable | [Evidence](DEPLOYMENT.md) |
+| D081 | Follow-up prepared: hosted Docker build/start/health/prediction checks passed | [Evidence](VALIDATION-CLOSURE.md) |
 | D082 | Published; local operations evidence only | [Evidence](DEPLOYMENT.md) |
 | D083 | Published; local operations evidence only | [Evidence](DEPLOYMENT.md) |
 | D084 | Published; local operations evidence only | [Evidence](DEPLOYMENT.md) |

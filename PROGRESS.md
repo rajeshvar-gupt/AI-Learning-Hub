@@ -130,3 +130,7 @@ The original roadmap dates remain unchanged. Implementation is not learner maste
 [PR #13](https://github.com/rajeshvar-gupt/AI-Learning-Hub/pull/13) merged at commit `200995685bf98360117f8a76eb4226cc657aca1a` after both hosted CI checks passed. All 85 registry entries are now published. The release includes 18 new lessons and eight new project guides. Validation evidence remains 111 passing tests plus the ecosystem link/registry check; no application code changed in this status-only update.
 
 Remaining work is limited to explicitly tracked external/quality checks in RELEASE-REPORT.md: owner weather-key rotation, live-service validation, Docker build, independent RAG evaluation, legacy face inference and any future public deployment. Do not mark those done without their own evidence. The daily automation remains inactive.
+
+## 2026-10-27 · Outstanding-check follow-up
+
+Prepared hosted Docker build/smoke validation and a frozen external-label SQuAD retrieval evaluation. Source commit `78cec380df3400767e3b472322fae7e8f95e71c1` passed both CI jobs, including 113 behavioral tests. See [closure evidence](VALIDATION-CLOSURE.md). New follow-up work remains prepared until review/merge. Live credentials were absent; no key rotation, private face inference or public cloud deployment was attempted. The independent retrieval benchmark does not establish representative course-domain/live answer quality.
