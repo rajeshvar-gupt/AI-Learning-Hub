@@ -46,3 +46,16 @@ These are new material inside this hub. They do not repair or validate the histo
 ## Transformer mechanics (published)
 
 [NumPy transformer lab](intermediate/transformer-mechanics/README.md): positions, projected multi-head attention, a forward block and fixed-logit decoding. Untrained numerical demonstration, not a language-model benchmark.
+
+## Final engineering labs (prepared for review)
+
+- [Mockable Gemini assistant](intermediate/gemini-assistant/README.md)
+- [Retrieval and grounded-answer baseline](intermediate/rag-mentor/README.md)
+- [Plan–execute–review tool runner](intermediate/bounded-agent/README.md)
+- [Idempotent dry-run workflow queue](intermediate/workflow-queue/README.md)
+- [Iris training and local HTTP API](intermediate/iris-api/README.md)
+- [Weather, PDF and image repair labs](intermediate/repair-labs/README.md)
+- [Frozen convolution feature transfer](intermediate/feature-transfer/README.md)
+- [Integrated course-mentor capstone](intermediate/course-mentor-capstone/README.md)
+
+These local teaching implementations do not label the old external repositories repaired or production-ready. See [release evidence](../RELEASE-REPORT.md).
